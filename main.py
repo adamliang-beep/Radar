@@ -1550,6 +1550,39 @@ def render_html_content(
         is_daily_summary: bool = False,
         mode: str = "daily",
 ) -> str:
+    # === 开始：为你定制的网页过滤器 ===
+    try:
+        import os
+        keyword_file = os.path.join("config", "frequency_words.txt")
+        # 检查你的关键词文件是否存在
+        if os.path.exists(keyword_file):
+            with open(keyword_file, "r", encoding="utf-8") as f:
+                # 读取你写的关键词，全部转小写，并去掉多余的回车空格
+                keywords = [line.strip().lower() for line in f if line.strip()]
+            
+            # 如果你真的写了关键词，就开始过滤数据
+            if keywords:
+                filtered_data = {}
+                # 遍历原始数据的每一个平台和它下面的所有热搜
+                for platform, items in report_data.items():
+                    filtered_items = []
+                    for item in items:
+                        # 无论数据本身是什么复杂格式，统统转成纯文本来找关键词
+                        item_str = str(item).lower() 
+                        # 如果这段文本里包含你设置的任何一个关键词，就保留它
+                        if any(kw in item_str for kw in keywords):
+                            filtered_items.append(item)
+                            
+                    # 如果这个平台过滤后还有剩下的热搜，才把这个平台展示出来
+                    if filtered_items:
+                        filtered_data[platform] = filtered_items
+                
+                # 狸猫换太子：把精简后的数据替换掉原本那几千条原始数据
+                report_data = filtered_data
+    except Exception as e:
+        # 万一代码写错，保证程序不会崩溃，依然显示全部数据
+        print(f"过滤网页数据时出错: {e}")
+    # === 结束：为你定制的网页过滤器 ===
     """渲染HTML内容"""
     html = """
     <!DOCTYPE html>
