@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T16:32:39.376383+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-05-11T20:20:58.762564+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 106,
+      "match_count": 109,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -114,13 +114,24 @@
           "time_info": "07时03分"
         },
         {
+          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
+          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "伊朗外交部发言人：因此，我们认为霍尔木兹海峡需要一个管理机制来保护海洋环境。",
           "url": "https://flash.jin10.com/detail/20260511162445130800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -131,7 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -153,9 +164,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时20分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
@@ -175,9 +199,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
+          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
@@ -197,7 +232,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -450,18 +485,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时59分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 16时32分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -893,7 +916,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -931,6 +954,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638457937534451721/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
           "url": "https://flash.jin10.com/detail/20260511015611933800",
           "source": "金十数据",
@@ -959,7 +993,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -981,7 +1015,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1003,7 +1037,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1253,7 +1287,7 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "文班亚马被驱逐",
@@ -1342,6 +1376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "NBA雄鹿老板遭华裔女子“色情勒索”",
+          "url": "https://www.baidu.com/s?wd=NBA%E9%9B%84%E9%B9%BF%E8%80%81%E6%9D%BF%E9%81%AD%E5%8D%8E%E8%A3%94%E5%A5%B3%E5%AD%90%E2%80%9C%E8%89%B2%E6%83%85%E5%8B%92%E7%B4%A2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "又一个中国球员或能打NBA了",
