@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T12:15:10.423564+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-05-11T16:32:39.376383+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 97,
+      "match_count": 106,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -35,6 +35,17 @@
           "time_info": "[01时05分 ~ 12时15分]"
         },
         {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗战争丨美国商船遭伊朗无人机袭击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -46,15 +57,15 @@
           "time_info": "[04时59分 ~ 06时01分]"
         },
         {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 16时32分]"
         },
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
@@ -73,17 +84,6 @@
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "伊朗知情人士：特朗普不满意反而更好",
-          "url": "https://news.ifeng.com/c/8t246befcan",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -114,6 +114,28 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗外交部发言人：因此，我们认为霍尔木兹海峡需要一个管理机制来保护海洋环境。",
+          "url": "https://flash.jin10.com/detail/20260511162445130800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗战争丨又一架美军F-35战机发出紧急代码",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
           "url": "https://flash.jin10.com/detail/20260511002959971800",
           "source": "金十数据",
@@ -123,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国军事存在及其在该地区强加的战争对环境造成了极其严重且持久的影响。",
+          "url": "https://flash.jin10.com/detail/20260511162435490800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
@@ -136,6 +169,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗外交部发言人：关于伊朗将采出的石油倾倒入海的指控纯属谎言。",
+          "url": "https://flash.jin10.com/detail/20260511162408302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
           "url": "https://flash.jin10.com/detail/20260511002628333800",
           "source": "金十数据",
@@ -145,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗称其谈判优先事项是结束战争、确保海上安全等问题",
+          "url": "https://wallstreetcn.com/livenews/3101468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
@@ -397,6 +452,18 @@
           "time_info": "[04时59分 ~ 07时03分]"
         },
         {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://www.toutiao.com/trending/7638239152550448650/",
           "source": "今日头条",
@@ -561,17 +628,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "伊媒：特朗普对伊朗回应的反应无关紧要",
@@ -831,6 +887,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "英国央行委员格林：待伊朗战事明朗后再支持加息",
+          "url": "https://flash.jin10.com/detail/20260511161924312800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "伊媒：伊朗不会为取悦美方而制定计划",
           "url": "https://wallstreetcn.com/livenews/3101181",
           "source": "华尔街见闻-快讯",
@@ -886,6 +953,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗外交部：向美国提出了“负责任的诉求和慷慨的提议”",
+          "url": "https://wallstreetcn.com/livenews/3101457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：认为伊朗在谈判解决方案中无需彻底销毁其所有铀浓缩设施，这种说法毫无道理。所谓的暂停措施（如果不彻底拆除铀浓缩设施与相关能力）本质上就会重新变成《联合全面行动计划》（JCPOA，即“伊核协议”）。我确信伊朗拒绝摧毁其铀浓缩能力的立场将遭到坚决反对。",
           "url": "https://flash.jin10.com/detail/20260511055611106800",
           "source": "金十数据",
@@ -895,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗外交部：伊朗向美国提出的提议“并不过分”",
+          "url": "https://wallstreetcn.com/livenews/3101451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "伊媒：伊朗不会为取悦美方而制定计划",
@@ -908,13 +997,24 @@
           "time_info": "07时03分"
         },
         {
+          "title": "英国央行货币政策委员格林：值得稍作等待，观察伊朗战争的进展态势。",
+          "url": "https://flash.jin10.com/detail/20260511161433495800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "特朗普力挺伊拉克总理热门人选 白宫要求其“疏远伊朗”",
           "url": "https://flash.jin10.com/detail/20260511113319149800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1145,7 +1245,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
