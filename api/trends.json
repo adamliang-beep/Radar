@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T18:39:56.292448+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-05-13T21:25:00.416691+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -97,6 +97,19 @@
           "time_info": "02时10分"
         },
         {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 21时25分]"
+        },
+        {
           "title": "伊朗北部发生地震，德黑兰震感明显",
           "url": "https://wallstreetcn.com/livenews/3102509",
           "source": "华尔街见闻-快讯",
@@ -131,18 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时19分]"
-        },
-        {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 18时39分]"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
