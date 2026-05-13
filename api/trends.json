@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T12:55:16.884348+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-05-13T15:57:17.915981+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -59,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "沙特、阿联酋被曝曾秘密空袭伊朗",
+          "url": "https://news.ifeng.com/c/8t5hJ4xQWHE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国总统特朗普：伊朗要么做正确的事，要么我们来完成这项工作。",
@@ -145,6 +156,18 @@
           "time_info": "[04时46分 ~ 06时19分]"
         },
         {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 15时57分]"
+        },
+        {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
@@ -162,7 +185,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -255,6 +278,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "美以袭击伊朗进入第 75 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037651644314116713",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "据伊朗媒体：伊朗德黑兰发生地震。",
           "url": "https://flash.jin10.com/detail/20260513042012097800",
           "source": "金十数据",
@@ -275,17 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
-        },
-        {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "美国总统特朗普：在应对伊朗拖延问题上，我不会当“傻瓜”。",
@@ -437,13 +460,25 @@
           "time_info": "[08时09分 ~ 08时10分]"
         },
         {
+          "title": "一天内2位NBA球员去世",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A9%E5%86%852%E4%BD%8DNBA%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 15时57分]"
+        },
+        {
           "title": "文班亚马不会被追加处罚",
           "url": "https://www.douyin.com/hot/2496528",
           "source": "抖音",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -454,7 +489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -465,18 +500,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "一天内2位NBA球员去世",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A9%E5%86%852%E4%BD%8DNBA%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -504,7 +528,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
