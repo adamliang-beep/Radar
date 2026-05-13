@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T15:57:17.915981+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-05-13T18:39:56.292448+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -133,6 +133,18 @@
           "time_info": "[04时46分 ~ 06时19分]"
         },
         {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 18时39分]"
+        },
+        {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
           "url": "https://www.cls.cn/detail/2368941",
           "source": "财联社热门",
@@ -154,18 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时19分]"
-        },
-        {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时57分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -284,7 +284,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -465,11 +465,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 18时39分]"
         },
         {
           "title": "文班亚马不会被追加处罚",
