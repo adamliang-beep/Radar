@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T08:10:11.499347+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-05-13T12:55:16.884348+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2369590",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 12时55分]"
         },
         {
           "title": "世界杯将至，伊朗队仍在等待入境美国",
@@ -37,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时09分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[02时09分 ~ 12时55分]"
         },
         {
           "title": "报道，为了报复中东战争期间沙特境内遭受的袭击，沙特阿拉伯对伊朗发动了多次未公开的军事打击。WTI原油期货目前涨3.79%，报101.79美元。",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "伊朗设谈判门槛，特朗普称“不着急”",
+          "url": "https://news.ifeng.com/c/8t5HGdbHooZ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "据路透社：四位知情人士透露，沙特战争期间对伊朗进行了未公开的报复性打击。",
@@ -142,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 02时10分]"
+        },
+        {
+          "title": "沙特被曝3月曾对伊朗发动多次“报复性”空袭",
+          "url": "https://wallstreetcn.com/livenews/3102707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "美国总统特朗普谈及伊朗，宣称：只会达成一份好的协议。 封锁已经取得成效。",
@@ -249,9 +272,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "美国总统特朗普：在应对伊朗拖延问题上，我不会当“傻瓜”。",
@@ -337,7 +371,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -348,7 +382,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -381,32 +415,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
-          "url": "https://flash.jin10.com/detail/20260513060313265800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "NBA灰熊队29岁球员克拉克去世",
@@ -418,6 +435,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "文班亚马不会被追加处罚",
+          "url": "https://www.douyin.com/hot/2496528",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛森林狼 97:126 马刺，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2037808499384653765",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "一天内2个NBA球员去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E5%86%852%E4%B8%AANBA%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "一天内2位NBA球员去世",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A9%E5%86%852%E4%BD%8DNBA%E7%90%83%E5%91%98%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
+          "url": "https://flash.jin10.com/detail/20260513060313265800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     }
