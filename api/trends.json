@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T02:04:01.695061+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-15T04:41:36.283631+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时41分]"
         },
         {
           "title": "伊朗革命卫队指挥官贾法里：伊朗坚持谈判的前提条件。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -102,9 +102,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席：我们警告敌人，如果他们犯下错误，破坏我们的安全，我们将在世界任何地方剥夺他们的安全。",
+          "url": "https://flash.jin10.com/detail/20260515032535829800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席：我们已准备好在霍尔木兹海峡及其他战场再次击败敌人。",
+          "url": "https://flash.jin10.com/detail/20260515031448900800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "伊朗外长阿拉格齐与埃及外长在新德里举行会晤。",
@@ -113,7 +135,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -128,11 +150,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E7%99%BB%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E9%AA%91%E5%A3%AB%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时41分]"
         }
       ]
     }
