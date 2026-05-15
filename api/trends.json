@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-05-16T02:47:36.659316+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-16T04:21:09.968007+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
-          "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
-          "url": "https://wallstreetcn.com/livenews/3104590",
-          "source": "华尔街见闻-快讯",
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时21分]"
         },
         {
           "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
@@ -41,15 +31,28 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
+          "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3104590",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时47分]"
+          "time_info": "[02时47分 ~ 04时21分]"
+        },
+        {
+          "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 04时21分]"
         },
         {
           "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
@@ -59,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时21分]"
         },
         {
           "title": "以官员：以色列正在为重启对伊朗军事行动做准备",
@@ -69,7 +72,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         },
@@ -83,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
+          "url": "https://flash.jin10.com/detail/20260516033957346800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美国总统特朗普：我并没有低估伊朗的承受能力。",
@@ -102,9 +116,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
+          "url": "https://flash.jin10.com/detail/20260516032352430800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
@@ -113,7 +138,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         }
