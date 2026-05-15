@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T08:05:09.450851+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-05-15T12:58:13.365642+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -19,13 +19,35 @@
           "time_info": "[02时03分 ~ 08时05分]"
         },
         {
+          "title": "伊朗外长：阿联酋直接参与侵略行动，是美以的同谋",
+          "url": "https://news.ifeng.com/c/8t89Os71ql7",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "伊媒：伊朗已允许部分中国船只通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8t80DotgBG6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "美联储理事Barr：伊朗冲突让通胀令人担忧。",
           "url": "https://wallstreetcn.com/livenews/3103955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -50,6 +72,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "外交部回应中美元首是否谈及伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638899887907700777/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "大批伊朗民众集会为男足壮行",
+          "url": "https://www.toutiao.com/trending/7638982403655450666/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "美国总统特朗普：将继续摧毁伊朗的军事。",
