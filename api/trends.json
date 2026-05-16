@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:01:53.668793+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-05-17T07:03:43.103041+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
           "title": "伊朗股市将于下周二重新开放。（伊朗国家媒体）",
@@ -61,8 +61,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时03分]"
+        },
+        {
+          "title": "伊朗布什尔核电站二号机组恢复建设",
+          "url": "https://wallstreetcn.com/livenews/3104819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时03分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
@@ -76,44 +88,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "伊朗布什尔核电站二号机组恢复建设",
-          "url": "https://wallstreetcn.com/livenews/3104819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时01分]"
-        },
-        {
-          "title": "伊朗股市将于下周二重开",
-          "url": "https://flash.jin10.com/detail/20260517024230307800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时01分]"
-        },
-        {
-          "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
-          "url": "https://flash.jin10.com/detail/20260517023242958800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时01分]"
-        },
-        {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
           "url": "https://wallstreetcn.com/livenews/3104807",
           "source": "华尔街见闻-快讯",
@@ -123,20 +97,36 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
-          "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
-          "url": "https://flash.jin10.com/detail/20260517042540148800",
+          "title": "伊朗股市将于下周二重开",
+          "url": "https://flash.jin10.com/detail/20260517024230307800",
           "source": "金十数据",
           "ranks": [
-            5,
-            10
+            2,
+            16,
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时03分]"
+        },
+        {
+          "title": "据伊朗官方媒体：伊朗股市将于下周二重开。",
+          "url": "https://flash.jin10.com/detail/20260517023242958800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时03分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾",
@@ -148,8 +138,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
           "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
@@ -161,8 +151,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时03分]"
         },
         {
           "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
@@ -173,8 +163,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时03分]"
+        },
+        {
+          "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
+          "url": "https://flash.jin10.com/detail/20260517042540148800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时01分]"
+          "time_info": "[05时01分 ~ 07时03分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -183,11 +186,12 @@
           "ranks": [
             8,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时03分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -195,11 +199,25 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 07时03分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
+          "url": "https://flash.jin10.com/detail/20260517031730023800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 07时03分]"
         },
         {
           "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
@@ -212,18 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 05时01分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
-          "url": "https://flash.jin10.com/detail/20260517031730023800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时01分]"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
@@ -328,8 +334,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时03分]"
         }
       ]
     }
