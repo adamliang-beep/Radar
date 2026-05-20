@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-21T02:27:35.337010+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-21T05:05:27.114630+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可",
+          "url": "https://wallstreetcn.com/livenews/3106918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
         {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
           "url": "https://wallstreetcn.com/livenews/3106881",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
@@ -107,6 +129,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国财长贝森特：与卡塔尔财长于法国巴黎讨论伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3106897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "据伊朗电视台：伊朗外长阿拉格奇正在准备前往美国，参加联合国会议。",
           "url": "https://flash.jin10.com/detail/20260521013713748800",
           "source": "金十数据",
@@ -151,6 +184,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "伊朗“波斯湾海峡管理局”在社交媒体上公布了霍尔木兹海峡的受控海域。",
+          "url": "https://flash.jin10.com/detail/20260521035746749800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
           "url": "https://wallstreetcn.com/livenews/3106858",
           "source": "华尔街见闻-快讯",
@@ -173,6 +217,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260521033600584800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗准备与其他沿海国家合作，制定安全航运交通协议。",
           "url": "https://flash.jin10.com/detail/20260521011425588800",
           "source": "金十数据",
@@ -184,6 +239,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3106888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "伊朗外交部发言人：寻求与阿曼建立机制，并与“专业国际机构”协调，以确保霍尔木兹海峡的可持续安全。",
           "url": "https://flash.jin10.com/detail/20260521011325987800",
           "source": "金十数据",
@@ -193,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
+          "url": "https://wallstreetcn.com/livenews/3106886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     },
@@ -205,11 +282,12 @@
           "url": "https://www.zhihu.com/question/2040264998916712429",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 05时05分]"
         }
       ]
     },
@@ -222,11 +300,12 @@
           "url": "https://www.douyin.com/hot/2505937",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 05时05分]"
         }
       ]
     }
