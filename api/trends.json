@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T12:28:06.345564+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-05-21T16:41:33.519311+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "阿拉格齐：伊朗官员即使殉难也坚守阵地",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -41,6 +41,18 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 16时41分]"
+        },
+        {
           "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
           "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
           "source": "凤凰网",
@@ -64,15 +76,15 @@
           "time_info": "[02时27分 ~ 07时21分]"
         },
         {
-          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040565738411221984",
-          "source": "知乎",
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
           "ranks": [
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
@@ -350,11 +362,12 @@
           "url": "https://www.zhihu.com/question/2040713533592232750",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 16时41分]"
         }
       ]
     },
