@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-21T07:21:59.979675+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-05-21T12:28:06.345564+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "阿拉格齐：伊朗官员即使殉难也坚守阵地",
+          "url": "https://flash.jin10.com/detail/20260521115702577800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
         {
           "title": "伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可",
           "url": "https://wallstreetcn.com/livenews/3106918",
@@ -53,6 +64,17 @@
           "time_info": "[02时27分 ~ 07时21分]"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
           "url": "https://wallstreetcn.com/livenews/3106876",
           "source": "华尔街见闻-快讯",
@@ -81,7 +103,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -136,7 +158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -169,7 +191,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -308,6 +330,35 @@
       ]
     },
     {
+      "keyword_group": "NBA 哈登 文班",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "NBA单赛季投进300个三分有多难",
+          "url": "https://www.douyin.com/hot/2505937",
+          "source": "抖音",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 07时21分]"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛马刺 113:122 雷霆，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2040713533592232750",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -319,24 +370,6 @@
             15,
             16,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 哈登 文班",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "NBA单赛季投进300个三分有多难",
-          "url": "https://www.douyin.com/hot/2505937",
-          "source": "抖音",
-          "ranks": [
-            17,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
