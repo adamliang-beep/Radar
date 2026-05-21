@@ -1,101 +1,33 @@
 {
-  "generated_at": "2026-05-21T20:25:28.196821+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-05-22T00:22:34.913441+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 6,
       "titles": [
         {
-          "title": "阿拉格齐：伊朗官员即使殉难也坚守阵地",
-          "url": "https://flash.jin10.com/detail/20260521115702577800",
+          "title": "美军称对伊朗港口的封锁已使94艘商船改变航向",
+          "url": "https://wallstreetcn.com/livenews/3107543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
+          "url": "https://flash.jin10.com/detail/20260521234844520800",
           "source": "金十数据",
           "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可",
-          "url": "https://wallstreetcn.com/livenews/3106918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "美国会众议院将表决一项涉伊朗战争决议",
-          "url": "https://wallstreetcn.com/livenews/3107424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
-          "url": "https://wallstreetcn.com/livenews/3106881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗总统：政府将全力支持加强武装力量",
-          "url": "https://wallstreetcn.com/livenews/3107422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040565738411221984",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 16时41分]"
-        },
-        {
-          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
-          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 07时21分]"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时21分]"
+          "time_info": "00时22分"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -105,387 +37,41 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "伊朗公布霍尔木兹海峡管辖范围",
-          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "00时22分"
         },
         {
-          "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
-          "url": "https://wallstreetcn.com/livenews/3106876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3106875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "美国会众议院将表决一项涉伊朗战争决议",
-          "url": "https://flash.jin10.com/detail/20260521201914091800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
-          "url": "https://flash.jin10.com/detail/20260521064008184800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
-          "url": "https://wallstreetcn.com/livenews/3106871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗外长前往美国参加联合国会议的筹备工作仍然在推进职中。（伊朗电视台）",
-          "url": "https://wallstreetcn.com/livenews/3106870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
-          "url": "https://flash.jin10.com/detail/20260521015904689800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "强硬回绝！伊朗最高领袖下死令：严禁高浓缩铀外运",
-          "url": "https://flash.jin10.com/detail/20260521201246368800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "【伊朗称将在“强烈不信任美国”的情况下继续推进谈判】伊朗外交部发言人巴加埃当地时间20日晚间就伊美局势、霍尔木兹海峡安全以及美国对伊施压表态，强调伊朗将在“强烈不信任美国”的情况下继续推进谈判，同时坚决维护国家利益。 巴加埃表示，伊朗当前通过巴基斯坦中间人持续与美国进行信息交换，德黑兰的核心诉求包括结束地区冲突、解冻伊朗海外资产，以及停止针对伊朗航运的“海上劫掠”行为。他称，尽管美方过去一年半的行为留下负面记录，但伊朗仍以“认真和善意”态度推进外交进程，不过对美国保持“强烈且合理的不信任”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3106869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗外交部发言人：欧洲应从二战时期的绥靖政策经历中汲取教训，停止在面对以色列政权时无所作为。",
-          "url": "https://flash.jin10.com/detail/20260521201226254800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
-          "url": "https://flash.jin10.com/detail/20260521061556986800",
-          "source": "金十数据",
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美军周三登检一艘伊朗油轮，称其“违反封锁”",
-          "url": "https://flash.jin10.com/detail/20260521014431833800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗副总统：政府解决能源失衡的方案不是涨价，已将降低消费和改变生活方式作为工作重点，并已授权伊斯法罕省试点实施相关计划。",
-          "url": "https://flash.jin10.com/detail/20260521201051896800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美国财长贝森特：与卡塔尔财长于法国巴黎讨论伊朗问题。",
-          "url": "https://wallstreetcn.com/livenews/3106897",
+          "title": "伊朗革命卫队：过去24小时内有31艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3107525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
-          "url": "https://wallstreetcn.com/livenews/3106964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "据伊朗电视台：伊朗外长阿拉格奇正在准备前往美国，参加联合国会议。",
-          "url": "https://flash.jin10.com/detail/20260521013713748800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗副总统：由于需要大量资金和较长时间，增加能源生产能力并非政府的当务之急。",
-          "url": "https://flash.jin10.com/detail/20260521201023736800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬在伊朗会见了巴基斯坦内政部长莫辛·纳克维。",
-          "url": "https://flash.jin10.com/detail/20260521012525117800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
-          "url": "https://flash.jin10.com/detail/20260521012400985800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "【沙特媒体：伊美将在朝觐季结束后举行新一轮谈判】沙特阿拉伯阿拉比亚电视台20日援引消息人士的话报道，伊朗和美国将在5月底伊斯兰教朝觐季结束后于巴基斯坦首都伊斯兰堡举行新一轮谈判。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3106859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”在社交媒体上公布了霍尔木兹海峡的受控海域。",
-          "url": "https://flash.jin10.com/detail/20260521035746749800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3106858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伦敦铜价反弹，受智利供应担忧及达成伊朗核协议希望推动",
-          "url": "https://wallstreetcn.com/livenews/3106857",
+          "title": "美国国务卿卢比奥宣称：设立霍尔木兹海峡收费系统是“不可接受”的。 我们在伊朗问题上取得了一些进展，有一些积极迹象。",
+          "url": "https://wallstreetcn.com/livenews/3107517",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260521033600584800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗准备与其他沿海国家合作，制定安全航运交通协议。",
-          "url": "https://flash.jin10.com/detail/20260521011425588800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3106888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "伊朗外交部发言人：寻求与阿曼建立机制，并与“专业国际机构”协调，以确保霍尔木兹海峡的可持续安全。",
-          "url": "https://flash.jin10.com/detail/20260521011325987800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
-          "url": "https://wallstreetcn.com/livenews/3106886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NBA 哈登 文班",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "NBA单赛季投进300个三分有多难",
-          "url": "https://www.douyin.com/hot/2505937",
-          "source": "抖音",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 07时21分]"
-        },
-        {
-          "title": "2526 赛季 NBA 季后赛马刺 113:122 雷霆，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2040713533592232750",
-          "source": "知乎",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 16时41分]"
-        },
-        {
-          "title": "骑士怎么避免布伦森一直单点哈登？",
-          "url": "https://www.zhihu.com/question/2040481676753642662",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 07时21分]"
+          "time_info": "00时22分"
         }
       ]
     }
