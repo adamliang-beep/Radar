@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:53:11.569135+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-05-22T22:57:41.777093+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -41,11 +41,24 @@
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 22时57分]"
+        },
+        {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时57分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -71,17 +84,6 @@
           "time_info": "[07时14分 ~ 07时15分]"
         },
         {
-          "title": "鲁比奥：伊朗问题确实有一些进展",
-          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
-        },
-        {
           "title": "据英国金融时报：法国财政部长表示，各国在了解伊朗冲突将持续多久之前，无法决定是否释放更多石油储备。",
           "url": "https://flash.jin10.com/detail/20260522121242400800",
           "source": "金十数据",
@@ -104,6 +106,28 @@
           "time_info": "00时22分"
         },
         {
+          "title": "伊朗“最大内鬼”，原来是他？",
+          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "巴基斯坦军方消息人士：巴三军情报局局长已前往伊朗",
+          "url": "https://wallstreetcn.com/livenews/3108126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
           "url": "https://www.cls.cn/detail/2378520",
           "source": "财联社热门",
@@ -113,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "卡塔尔被曝“秘密空降”伊朗！美国却在做最坏打算？",
+          "url": "https://flash.jin10.com/detail/20260522225155728800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗与美国之间的消息交流正在进行，巴基斯坦方面从中进行调解。",
@@ -169,7 +204,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -240,6 +275,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗外交部：美国必须取消对伊相关制裁",
+          "url": "https://wallstreetcn.com/livenews/3108113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "伊朗革命卫队：过去24小时内有31艘船只通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3107525",
           "source": "华尔街见闻-快讯",
@@ -273,6 +319,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "伊朗称正在争取合法权利 而非索取额外权利",
+          "url": "https://wallstreetcn.com/livenews/3108102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "美国国务卿卢比奥宣称：设立霍尔木兹海峡收费系统是“不可接受”的。 我们在伊朗问题上取得了一些进展，有一些积极迹象。",
           "url": "https://wallstreetcn.com/livenews/3107517",
           "source": "华尔街见闻-快讯",
@@ -301,7 +358,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -312,7 +369,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -323,7 +380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -334,7 +391,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -345,7 +402,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -356,7 +413,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
@@ -371,11 +428,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时57分]"
         }
       ]
     },
