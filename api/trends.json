@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-23T07:13:11.421529+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-05-23T12:02:20.943330+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
           "url": "https://news.ifeng.com/c/8tKwzchzUFC",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时02分]"
+        },
+        {
+          "title": "伊朗“最大内鬼”，原来是他？",
+          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时02分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
@@ -30,15 +42,26 @@
           "time_info": "[05时22分 ~ 07时13分]"
         },
         {
-          "title": "伊朗“最大内鬼”，原来是他？",
-          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://wallstreetcn.com/livenews/3108310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
+          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
           "source": "凤凰网",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -50,6 +73,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 07时13分]"
+        },
+        {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://wallstreetcn.com/livenews/3108305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
@@ -110,6 +144,39 @@
           "time_info": "01时18分"
         },
         {
+          "title": "伊朗关闭西部空域",
+          "url": "https://wallstreetcn.com/livenews/3108304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://flash.jin10.com/detail/20260523104708612800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗西部大部分机场暂时关闭",
+          "url": "https://flash.jin10.com/detail/20260523104258356800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "受伊朗战争重创，全球航运巨头达飞海运第一季度利润暴跌",
           "url": "https://wallstreetcn.com/livenews/3108211",
           "source": "华尔街见闻-快讯",
@@ -119,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
+          "url": "https://wallstreetcn.com/livenews/3108300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "美国总统特朗普：（重申）伊朗渴望达成协议，我们拭目以待。",
@@ -138,9 +216,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
+          "url": "https://flash.jin10.com/detail/20260523095127844800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "【伊朗外交部发言人：伊美分歧严重，难言协议接近达成】伊朗外交部发言人巴加埃22日表示，当前无法断言伊美协议已接近达成，双方分歧依然严重。据伊朗媒体22日报道，巴加埃谈及巴基斯坦高级官员访问德黑兰时说，这表明当前局势已进入“转折点或决定性阶段”。他提到，巴基斯坦陆军参谋长穆尼尔已访问德黑兰，相关沟通仍在进行中。在回答“这是否意味着谈判进程发生变化”时，巴加埃说，目前不能说伊美协议已接近达成，伊美之间存在严重且广泛的分歧，“外交是一个耗时的过程”。巴加埃说，不能期待通过数轮往返磋商，就可能在数周或数月内看到结果。他强调，外交谈判本身是长期过程，双方正利用各种机会传递各自立场。（新华社）",
@@ -176,6 +265,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
           "url": "https://wallstreetcn.com/livenews/3108197",
           "source": "华尔街见闻-快讯",
@@ -185,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
+          "url": "https://wallstreetcn.com/livenews/3108289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
@@ -255,8 +366,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 12时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 哈登 文班",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "NBA最佳防守阵容公布",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E6%9C%80%E4%BD%B3%E9%98%B2%E5%AE%88%E9%98%B5%E5%AE%B9%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     }
