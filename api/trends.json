@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T05:04:05.313115+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-05-24T07:01:35.911712+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时01分]"
         },
         {
           "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
@@ -27,32 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
-        },
-        {
-          "title": "伊朗：可能在30天或60天后的下一个阶段再进入核问题的谈判",
-          "url": "https://wallstreetcn.com/livenews/3108408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时04分]"
-        },
-        {
-          "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260524043506321800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时01分]"
         },
         {
           "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
@@ -62,8 +38,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗：可能在30天或60天后的下一个阶段再进入核问题的谈判",
+          "url": "https://wallstreetcn.com/livenews/3108408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时01分]"
+        },
+        {
+          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗与美国的谅解备忘录内容包括，停火、霍尔木兹海峡重新开放、美军舰队撤回、结束海上封锁，以及释放60亿美元被冻结的伊朗资金。",
+          "url": "https://flash.jin10.com/detail/20260524054545746800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗：伊美正在最终敲定谅解备忘录",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BC%8A%E7%BE%8E%E6%AD%A3%E5%9C%A8%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时01分]"
+        },
+        {
+          "title": "据黎巴嫩电视台Al-Mayadeen：美伊之间由巴基斯坦斡旋的框架协议即将敲定。这是一份谅解备忘录，而非最终协议，其中不涉及伊朗核计划。",
+          "url": "https://flash.jin10.com/detail/20260524054518697800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "据Axios援引以色列官员报道，以色列总理内塔尼亚胡敦促美国总统特朗普恢复对伊朗的打击。报道还称，内塔尼亚胡对目前正在起草的美伊协议感到极为担忧。",
@@ -77,26 +100,37 @@
           "time_info": "01时13分"
         },
         {
-          "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
-          "url": "https://flash.jin10.com/detail/20260524043328074800",
+          "title": "据法尔斯通讯社报道称，尽管伊朗同意允许通过霍尔木兹海峡的船只数量恢复至战前水平，但这并不意味着“自由通行”。",
+          "url": "https://flash.jin10.com/detail/20260524052927294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
+          "url": "https://flash.jin10.com/detail/20260524052546981800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "07时01分"
         },
         {
-          "title": "伊朗：伊美正在最终敲定谅解备忘录",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BC%8A%E7%BE%8E%E6%AD%A3%E5%9C%A8%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
-          "source": "百度热搜",
+          "title": "据伊朗法尔斯通讯社：尽管美国总统特朗普声称霍尔木兹海峡将恢复原状，但该海峡仍将处于伊朗控制之下。",
+          "url": "https://flash.jin10.com/detail/20260524052423890800",
+          "source": "金十数据",
           "ranks": [
-            23
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "伊朗驻巴基斯坦大使：若对方展现出足够诚意，我们持谨慎乐观态度，有望推动形成积极步骤。",
@@ -104,11 +138,36 @@
           "source": "金十数据",
           "ranks": [
             1,
-            19
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260524043506321800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时04分]"
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
+          "url": "https://flash.jin10.com/detail/20260524043328074800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
         },
         {
           "title": "据Axios报道，一名以色列官员称，美国总统特朗普预计将在周六与以色列总理内塔尼亚胡通话，讨论正在酝酿中的伊朗协议。",
@@ -129,11 +188,12 @@
           "ranks": [
             7,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时01分]"
         },
         {
           "title": "报道：美国与伊朗接近同意将停火协议延长60天",
@@ -142,11 +202,12 @@
           "ranks": [
             9,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时01分]"
         },
         {
           "title": "沙特媒体：伊朗欲以开放霍尔木兹海峡换美国赔偿",
@@ -155,11 +216,12 @@
           "ranks": [
             10,
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时01分]"
         },
         {
           "title": "伊朗总统：以色列是唯一试图通过挑起战争来谋取利益的势力",
@@ -168,11 +230,12 @@
           "ranks": [
             13,
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 07时01分]"
         },
         {
           "title": "美以袭击伊朗进入第 85 天，当前局势如何？哪些信息值得关注？",
@@ -199,6 +262,30 @@
           "time_info": "[01时13分 ~ 05时04分]"
         },
         {
+          "title": "美军全面执行针对伊朗的海上封锁行动，将对全球原油供应链以及国际油价走势带来怎样的连锁反应？",
+          "url": "https://www.zhihu.com/question/2040378787775213864",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议已基本谈妥。",
+          "url": "https://flash.jin10.com/detail/20260524043232235800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
           "title": "两名了解谈判情况的巴基斯坦消息人士称，伊朗和巴基斯坦已向美国提交了修订后的提议，内容包括结束战争、开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260524022655250800",
           "source": "金十数据",
@@ -211,6 +298,42 @@
           "time_info": "[03时24分 ~ 05时04分]"
         },
         {
+          "title": "以方认为伊朗误导美国 核协议难达成",
+          "url": "https://flash.jin10.com/detail/20260524042459863800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗总统：伊朗在美方谈判中寻求自身合法权利，但过往经历要求我们保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260524033422942800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
+          "title": "据法新社援引知情人士报道，法国总统马克龙与特朗普及海湾领导人通话，呼吁通过谈判解决与伊朗的问题。",
+          "url": "https://flash.jin10.com/detail/20260524031522354800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时01分]"
+        },
+        {
           "title": "伊朗说伊美正处于谅解备忘录最终敲定阶段",
           "url": "https://wallstreetcn.com/livenews/3108387",
           "source": "华尔街见闻-快讯",
@@ -221,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 03时24分]"
-        },
-        {
-          "title": "美军全面执行针对伊朗的海上封锁行动，将对全球原油供应链以及国际油价走势带来怎样的连锁反应？",
-          "url": "https://www.zhihu.com/question/2040378787775213864",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时24分]"
         },
         {
           "title": "美国国务卿卢比奥：与伊朗在对话中取得一些进展。 美方仍然倾向于与伊朗谈判（浓缩）铀问题。",
@@ -258,15 +370,15 @@
           "time_info": "[01时13分 ~ 03时24分]"
         },
         {
-          "title": "美国总统特朗普：伊朗协议已基本谈妥。",
-          "url": "https://flash.jin10.com/detail/20260524043232235800",
+          "title": "据伊朗法尔斯通讯社：美国总统特朗普关于霍尔木兹海峡恢复原状的说法不实。",
+          "url": "https://flash.jin10.com/detail/20260524052344173800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "07时01分"
         },
         {
           "title": "卡塔尔外交大臣与沙特外交大臣通电话，讨论了巴基斯坦在美国与伊朗之间进行的调解努力。",
@@ -280,15 +392,15 @@
           "time_info": "01时13分"
         },
         {
-          "title": "以方认为伊朗误导美国 核协议难达成",
-          "url": "https://flash.jin10.com/detail/20260524042459863800",
+          "title": "据伊朗学生通讯社：埃及外长与美国驻西亚特使通电话，就美伊谈判最新进展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260524044617674800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "07时01分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：巴基斯坦陆军参谋长将向美方传递“伊朗红线”。",
@@ -322,28 +434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "伊朗总统：伊朗在美方谈判中寻求自身合法权利，但过往经历要求我们保持谨慎。",
-          "url": "https://flash.jin10.com/detail/20260524033422942800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "据法新社援引知情人士报道，法国总统马克龙与特朗普及海湾领导人通话，呼吁通过谈判解决与伊朗的问题。",
-          "url": "https://flash.jin10.com/detail/20260524031522354800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
         },
         {
           "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
