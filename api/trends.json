@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-26T07:16:30.088400+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-26T12:18:43.558971+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "伊朗最高领袖就医情况曝光",
+          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
         {
           "title": "美国与伊朗的草案协议允许免费开放霍尔木兹海峡，并清除水雷。 草案协议允许伊朗出售和出口石油。 草案协议规定继续进行核谈判，以达成长期共识。",
           "url": "https://wallstreetcn.com/livenews/3108978",
@@ -19,6 +30,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
           "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
           "source": "凤凰网",
@@ -28,6 +50,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 07时16分]"
+        },
+        {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗霍尔木兹甘省霍尔木兹港市传出爆炸声，原因尚不明。",
@@ -47,9 +80,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "市场消息：美伊草案协议规定美国承诺放松对伊朗港口的封锁；将为伊朗石油出口提供特定的制裁豁免，将分阶段考虑放松对伊朗石油的制裁措施，具体情况取决于伊朗对其承诺的落实。草案规定，需在30天内恢复霍尔木兹海峡的通航。",
@@ -233,6 +288,17 @@
           "time_info": "[03时54分 ~ 05时19分]"
         },
         {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "伊朗官员：武装力量处于最高戒备 若敌人犯错必将回应",
           "url": "https://flash.jin10.com/detail/20260526042408857800",
           "source": "金十数据",
@@ -250,7 +316,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -288,6 +354,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "据悉美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
           "url": "https://flash.jin10.com/detail/20260526041809112800",
           "source": "金十数据",
@@ -316,7 +393,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -360,7 +437,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -371,7 +448,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -382,7 +459,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -437,7 +514,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -459,7 +536,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -497,13 +574,24 @@
           "time_info": "03时54分"
         },
         {
+          "title": "以服务之名行管辖之实，伊朗的操作会否迎来效仿者？",
+          "url": "https://flash.jin10.com/detail/20260526111915263800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
           "url": "https://flash.jin10.com/detail/20260526053123872800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -525,7 +613,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -536,9 +624,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3109132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "伊朗亿万豪门千金或让丈夫净身出户",
@@ -547,7 +646,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -569,7 +668,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -599,7 +698,7 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "NBA 在国内怎么没什么热度了？",
@@ -613,6 +712,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 07时16分]"
+        },
+        {
+          "title": "哈登",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E7%99%BB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "哈登NBA生涯第一次惨遭横扫",
+          "url": "https://www.toutiao.com/trending/7643405062223446035/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "2526 赛季 NBA 季后赛尼克斯 130:93 骑士，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2042519358577054938",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "李瑞百分战胜前NBA球员莱蒙",
@@ -638,7 +770,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
