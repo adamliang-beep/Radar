@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T07:26:21.322090+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-05-30T12:09:38.168770+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -19,6 +19,17 @@
           "time_info": "[00时51分 ~ 07时26分]"
         },
         {
+          "title": "伊朗撂下3句狠话",
+          "url": "https://news.ifeng.com/c/8tXbCh1zYgx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "美国财长贝森特：伊朗通胀率可能超过200%。",
           "url": "https://flash.jin10.com/detail/20260530031153199800",
           "source": "金十数据",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗通过铁路网络开始向巴基斯坦供应液化石油气，货物通过专用罐式运输车抵达。",
+          "url": "https://flash.jin10.com/detail/20260530114509133800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -54,6 +76,17 @@
           "time_info": "03时38分"
         },
         {
+          "title": "伊媒：伊朗拒绝西方最后式通牒言论，着眼霍尔木兹海峡新秩序",
+          "url": "https://flash.jin10.com/detail/20260530113121269800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
           "url": "https://flash.jin10.com/detail/20260530003256956800",
           "source": "金十数据",
@@ -70,11 +103,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[06时00分 ~ 12时09分]"
         },
         {
           "title": "美国尚未证实伊朗在霍尔木兹海峡布雷。（NBC）",
@@ -287,6 +321,17 @@
           "time_info": "03时38分"
         },
         {
+          "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
+          "url": "https://flash.jin10.com/detail/20260530092605791800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
           "url": "https://flash.jin10.com/detail/20260530015929992800",
           "source": "金十数据",
@@ -296,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：我们仍有全球义务，比如确保伊朗无法获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260530091240513800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "【伊朗消息人士指责特朗普歪曲和回避协议内容】金十数据5月29日讯，据伊朗媒体Fars News：知情人士驳斥了特朗普关于可能与伊朗达成协议的最新说法，称其言论“真假参半”，旨在炮制一场虚假的胜利。如今几乎所有人都已看清，特朗普的这些说法根本站不住脚。据相关报道，这份以“对等承诺”形式起草的协议文本，目前正处于伊朗国内批准程序的最后阶段，尚未做出最终决定。与此形成鲜明对比的是，特朗普却抛出了一些与协议文本条款相悖的议题。与此同时，他却宣称将立即解除封锁。 特朗普对协议核心内容的歪曲包括：1.特朗普声称，伊朗有义务在不收取任何费用的前提下开放霍尔木兹海峡；然而，协议文本中根本不存在此类条款。2.特朗普声称，伊朗将拆除或销毁其核材料。知情人士强调指出，不仅谅解备忘录中毫无此类内容，特朗普的这一说法更是彻头彻尾的无稽之谈。 特朗普刻意回避的协议关键条款：1.特朗普只字未提、却至关重要的一项内容，即关于立即解冻并向伊朗支付120亿美元被冻结资产的先决条件。2.黎巴嫩停火。3.伊朗官员亦强调，最终协议将以伊朗伊斯兰共和国的原则与“红线”为基础。",
@@ -340,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "伊朗指责美方说法与协议文本不符",
+          "url": "https://wallstreetcn.com/livenews/3111693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "国际观察组织称，哈萨克斯坦提议，接纳伊朗浓缩铀。（英国金融时报）",
