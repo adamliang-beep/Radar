@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T13:57:25.653596+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-02T18:52:49.241933+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时45分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[02时45分 ~ 18时52分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 06时15分]"
+        },
+        {
+          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
+          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 18时52分]"
         },
         {
           "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
@@ -72,7 +84,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -88,24 +100,13 @@
           "time_info": "02时45分"
         },
         {
-          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
-          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "伊朗向以色列发出最新警告",
           "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -141,6 +142,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时45分 ~ 08时21分]"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 18时52分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国对话",
@@ -255,7 +268,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -324,17 +337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "伊朗外交部：美对以色列违反黎以停火协议负有直接责任",
@@ -453,7 +455,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -483,18 +485,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 18时52分]"
         },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
@@ -506,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美国证交会文件显示，谷歌母公司Alphabet申请发行最多1.5亿份B系列存托股份，计划发行总规模150亿美元的A类普通股和C类资本股。",
+          "url": "https://flash.jin10.com/detail/20260602181543749800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
@@ -539,6 +553,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "德商银行：将2026年年末黄金价格预测下调至每盎司4800美元，之前为5000美元。维持2027年底每盎司5200美元的价格预测。",
+          "url": "https://flash.jin10.com/detail/20260602181147730800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
