@@ -1,540 +1,111 @@
 {
-  "generated_at": "2026-06-04T20:11:10.125858+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-06-05T00:27:24.426947+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
-          "url": "https://wallstreetcn.com/articles/3773781",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 20时11分]"
-        },
-        {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗突然变了，美国突然客气了",
-          "url": "https://news.ifeng.com/c/8tfoNxuqYgl",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 16时57分]"
-        },
-        {
-          "title": "中国往返伊朗航线恢复运营",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BE%80%E8%BF%94%E4%BC%8A%E6%9C%97%E8%88%AA%E7%BA%BF%E6%81%A2%E5%A4%8D%E8%BF%90%E8%90%A5%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 20时11分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗议会议长卡利巴夫表示，针对伊朗的无代价威胁时代已经结束。任何侵略行为都将遭到令人遗憾的回应。",
-          "url": "https://flash.jin10.com/detail/20260604003943872800",
+          "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
+          "url": "https://flash.jin10.com/detail/20260605002309079800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "00时27分"
         },
         {
-          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
-          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "【内塔尼亚胡承认与特朗普存在“战术分歧”，特朗普证实对其爆粗口】以色列总理内塔尼亚胡3日表示，他与美国总统特朗普“有时会出现战术层面的分歧”，但双方在“核心目标”上保持一致。 内塔尼亚胡当日在接受美国消费者新闻与商业频道采访时说，他与特朗普“每两天就会通一次电话”，双方有着共同目标，其中包括“阻止伊朗获得核武器以及确保以色列安全”。 谈及伊朗战事时，内塔尼亚胡表示，战事最终如何结束“仍是一个开放性问题”，但以色列将继续维护自身安全利益。 特朗普在3日播出的一档访谈节目中证实，他在6月1日与内塔尼亚胡通话时爆粗口，斥责内塔尼亚胡“疯了”，但称两人“合作得非常愉快”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3113935",
+          "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
+          "url": "https://wallstreetcn.com/livenews/3114526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "00时27分"
         },
         {
-          "title": "美联储Logan：（美国和以色列发动伊朗战争，让人）目睹历史上最严重的能源紊乱。",
-          "url": "https://wallstreetcn.com/livenews/3114020",
+          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
+          "url": "https://wallstreetcn.com/livenews/3114520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "伊朗称“爱国者”导弹致科威特机场受损，美军否认",
-          "url": "https://wallstreetcn.com/livenews/3114019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
-          "url": "https://wallstreetcn.com/livenews/3113932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
-          "url": "https://wallstreetcn.com/articles/3773721",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
-          "url": "https://flash.jin10.com/detail/20260604002641812800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美国国务院：各方谴责伊朗对该地区国家的攻击。",
-          "url": "https://flash.jin10.com/detail/20260604071327641800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：特朗普告知调解方，在签署协议前他拒绝向伊朗释放资金。",
-          "url": "https://flash.jin10.com/detail/20260604164102085800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "伊朗最高领袖发表书面致辞呼吁团结",
-          "url": "https://wallstreetcn.com/livenews/3114294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "美国总统特朗普：企图将伊朗与黎巴嫩问题分开处理。",
-          "url": "https://wallstreetcn.com/livenews/3114010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
-          "url": "https://wallstreetcn.com/livenews/3114408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "阿拉伯媒体：关于解冻伊朗资金的协议讨论已进入最后阶段",
-          "url": "https://flash.jin10.com/detail/20260604163817477800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "特朗普宣称：伊朗原则上接近签署协议",
-          "url": "https://wallstreetcn.com/livenews/3114005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我方武装力量正对美国获准使用、用于袭击民用船只及破坏停火的相关目标实施自卫打击。 任何“敌对”行动都将遭到立即且果断的回应。",
-          "url": "https://wallstreetcn.com/livenews/3113913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗外长：若以色列侵略贝鲁特 则将重新开战",
-          "url": "https://wallstreetcn.com/livenews/3114062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "胡塞武装发表声明，重申支持伊朗维护自身权利",
-          "url": "https://wallstreetcn.com/livenews/3113991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
-          "url": "https://wallstreetcn.com/livenews/3114035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "科威特称伊朗袭击致63人受伤",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A8%81%E7%89%B9%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E8%87%B463%E4%BA%BA%E5%8F%97%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "伊朗军队称刚刚打击美军指挥舰",
-          "url": "https://wallstreetcn.com/livenews/3113990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "NBA总决赛G1尼克斯胜马刺",
-          "url": "https://www.douyin.com/hot/2522962",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时11分]"
-        },
-        {
-          "title": "NBA总决赛G1五佳球",
-          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 20时11分]"
-        },
-        {
-          "title": "NBA总决赛球迷冲场",
-          "url": "https://s.weibo.com/weibo?q=%23NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%90%83%E8%BF%B7%E5%86%B2%E5%9C%BA%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
         {
           "title": "马刺首输总决赛G1 文班：我打太烂了",
           "url": "https://www.toutiao.com/trending/7647325441597967915/",
           "source": "今日头条",
           "ranks": [
-            16,
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时11分]"
-        },
-        {
-          "title": "NBA总决赛前瞻",
-          "url": "https://www.douyin.com/hot/2521746",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 07时53分]"
-        },
-        {
-          "title": "2526 赛季 NBA 总决赛 G1 尼克斯 105-95 马刺，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2045788866356024379",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 16时57分]"
-        },
-        {
-          "title": "NBA总决赛首场 尼克斯逆转马刺",
-          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%9C%BA+%E5%B0%BC%E5%85%8B%E6%96%AF%E9%80%86%E8%BD%AC%E9%A9%AC%E5%88%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "为什么马刺球员文班亚马让人感觉很快会统治联盟？",
-          "url": "https://www.zhihu.com/question/2040810498376085990",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "NBA总决赛有观众冲进场找文班自拍",
-          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E6%9C%89%E8%A7%82%E4%BC%97%E5%86%B2%E8%BF%9B%E5%9C%BA%E6%89%BE%E6%96%87%E7%8F%AD%E8%87%AA%E6%8B%8D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "球迷冲进场内和文班亚马自拍",
           "url": "https://www.douyin.com/hot/2523208",
           "source": "抖音",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 20时11分]"
-        },
-        {
-          "title": "NBA球队B站粉丝排名",
-          "url": "https://search.bilibili.com/all?keyword=NBA%E7%90%83%E9%98%9FB%E7%AB%99%E7%B2%89%E4%B8%9D%E6%8E%92%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "00时27分"
+        },
+        {
+          "title": "NBA总决赛G1五佳球",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E4%BA%94%E4%BD%B3%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时11分]"
-        },
-        {
-          "title": "欧洲软件和IT股票上涨，Nemetschek、Capgemini、思爱普、Temenos、Wolters Kluwer、Relx上涨3%至5%。",
-          "url": "https://flash.jin10.com/detail/20260604164607298800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "00时27分"
         },
         {
-          "title": "谷歌：推出新品“DreamBeans”",
-          "url": "https://wallstreetcn.com/livenews/3113924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
-          "url": "https://flash.jin10.com/detail/20260604001056714800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：DreamBeans利用个人智能将谷歌应用中的信息连接起来，从而构建故事内容。",
-          "url": "https://flash.jin10.com/detail/20260604001020298800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌实验室推出DreamBeans。",
-          "url": "https://flash.jin10.com/detail/20260604000920167800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：计划于今年夏天在部分欧盟成员国推出身份通行证。",
-          "url": "https://flash.jin10.com/detail/20260604163205003800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "英国监管机构给谷歌AI搜索“立新规”",
-          "url": "https://wallstreetcn.com/livenews/3114177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "谷歌(GOOG.O)在网站上推出Gemma 4 12B。",
-          "url": "https://flash.jin10.com/detail/20260604000506999800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
-          "url": "https://wallstreetcn.com/livenews/3114037",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "00时27分"
         }
       ]
     }
