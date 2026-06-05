@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T07:17:30.035258+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-06-05T12:39:54.189876+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
+          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
@@ -171,7 +182,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -223,7 +234,7 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "NBA总决赛G1五佳球",
@@ -233,11 +244,23 @@
             26,
             10,
             29,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 07时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 12时39分]"
+        },
+        {
+          "title": "NBA中国携手阿里巴巴上线首个官方大模型“NBA Chat”",
+          "url": "https://wallstreetcn.com/livenews/3114799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
@@ -263,6 +286,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "如何评价 NBA 总决赛 G1，马刺以 95-105 输给了尼克斯？各球星表现如何？",
+          "url": "https://www.zhihu.com/question/2045826213063742760",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "球迷冲进场内和文班亚马自拍",
           "url": "https://www.douyin.com/hot/2523208",
           "source": "抖音",
@@ -272,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "21世纪NBA总决赛百大炸裂瞬间",
+          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
@@ -298,7 +343,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
