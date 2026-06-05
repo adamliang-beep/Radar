@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T12:39:54.189876+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-05T16:50:55.385034+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -50,7 +50,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -64,6 +64,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
+          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "伊朗最高领袖顾问：特朗普想施压迫使我们接受他的条件，同时将我们的条件置于模糊状态。当前草案存在模糊之处，必须予以澄清。",
@@ -229,12 +251,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "伊朗最高领袖发表书面致辞呼吁团结",
+          "url": "https://www.toutiao.com/trending/7646650149913591827/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "NBA总决赛G1五佳球",
@@ -258,7 +291,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -273,6 +306,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 07时17分]"
+        },
+        {
+          "title": "21世纪NBA总决赛百大炸裂瞬间",
+          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 16时50分]"
         },
         {
           "title": "马刺首输总决赛G1 文班：我打太烂了",
@@ -292,7 +337,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -308,15 +353,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "21世纪NBA总决赛百大炸裂瞬间",
-          "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
-          "source": "bilibili 热搜",
+          "title": "纯论身体天赋，NBA 历史前五是否是文班亚马、乔丹、詹姆斯、奥尼尔、科比这五位？",
+          "url": "https://www.zhihu.com/question/2045164386164160504",
+          "source": "知乎",
           "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "16时50分"
         }
       ]
     },
