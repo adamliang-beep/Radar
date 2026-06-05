@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-06-06T00:07:40.389526+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-06T03:02:55.706479+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 03时02分]"
         },
         {
           "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
@@ -41,17 +54,6 @@
           "time_info": "00时07分"
         },
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
           "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
           "url": "https://flash.jin10.com/detail/20260605232415104800",
           "source": "金十数据",
@@ -61,23 +63,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "伊朗石油部表示，南帕斯两座受损炼油设施的清理工作已完成约60%。",
+          "url": "https://flash.jin10.com/detail/20260606020743099800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 03时02分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，SpaceX已在当地时间2026年6月5日与谷歌签署云服务协议，以获取算力支持。",
+          "url": "https://flash.jin10.com/detail/20260606024743263800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "03时02分"
+        },
+        {
+          "title": "市场消息：SpaceX与谷歌(GOOG.O)达成云服务协议。合作协议涉及11万块英伟达GPU、CPU以及内存。",
+          "url": "https://flash.jin10.com/detail/20260606024718460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
+          "url": "https://flash.jin10.com/detail/20260606021701992800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -90,11 +137,12 @@
           "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 03时02分]"
         }
       ]
     }
