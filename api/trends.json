@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T07:19:03.287185+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-06-06T12:13:19.262752+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 38,
       "titles": [
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
@@ -36,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -53,13 +64,24 @@
           "time_info": "[00时07分 ~ 07时19分]"
         },
         {
+          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
+          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
           "url": "https://flash.jin10.com/detail/20260606060257951800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -77,13 +99,35 @@
           "time_info": "[00时07分 ~ 05时41分]"
         },
         {
+          "title": "伊朗革命卫队：中东地区美军基地遭袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "风水轮流转，轮到伊朗威胁美国了",
+          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
           "url": "https://flash.jin10.com/detail/20260606060212679800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -94,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -105,7 +149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -116,7 +160,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -171,9 +215,64 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260606102952590800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "伊朗称再袭美军第五舰队重要设施",
+          "url": "https://flash.jin10.com/detail/20260606102807931800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "美军称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3115405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "伊朗革命卫队发表声明称，如果美国的“胡闹”行径持续，美国将须对霍尔木兹海峡完全关闭、油气出口受阻所引发的后果承担责任。",
+          "url": "https://flash.jin10.com/detail/20260606102535963800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
@@ -182,9 +281,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美军中央司令部称拦截了伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260606101944957800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "美军中央司令部：目前没有关于美国人员受伤的报告，伊朗关于其破坏了位于巴林的美国第五舰队司令部的说法不实。",
+          "url": "https://flash.jin10.com/detail/20260606101737832800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
@@ -198,6 +330,28 @@
           "time_info": "00时07分"
         },
         {
+          "title": "伊朗革命卫队表示，已对四艘试图未经其许可穿越霍尔木兹海峡的油轮开火。",
+          "url": "https://flash.jin10.com/detail/20260606101526059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "美军中央司令部：拦截了伊朗发射的导弹与无人机。",
+          "url": "https://flash.jin10.com/detail/20260606101448324800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "伊朗石油部表示，南帕斯两座受损炼油设施的清理工作已完成约60%。",
           "url": "https://flash.jin10.com/detail/20260606020743099800",
           "source": "金十数据",
@@ -209,15 +363,37 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗媒体：美军第五舰队总部升起浓烟",
+          "url": "https://flash.jin10.com/detail/20260606101249829800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国能源部长Wright：若想让足够数量的石油顺利通过霍尔木兹海峡以降低汽油和柴油价格，最终将取决于与伊朗问题的解决。",
           "url": "https://wallstreetcn.com/livenews/3115370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "伊朗沿海锡里克地区传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3115393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
@@ -229,12 +405,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "特朗普称将迅速结束伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3115394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "伊朗外长：伊美沟通渠道仍保持畅通",
+          "url": "https://wallstreetcn.com/livenews/3115389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
@@ -268,7 +466,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -296,6 +494,17 @@
           "time_info": "[05时41分 ~ 07时19分]"
         },
         {
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
           "url": "https://flash.jin10.com/detail/20260606021701992800",
           "source": "金十数据",
@@ -307,6 +516,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
+          "url": "https://wallstreetcn.com/livenews/3115400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "SpaceX与谷歌签署300亿美元算力协议",
           "url": "https://wallstreetcn.com/livenews/3115327",
           "source": "华尔街见闻-快讯",
@@ -316,13 +536,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
+          "url": "https://flash.jin10.com/detail/20260606100207987800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 1,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "文班错失绝杀 马刺0-2不敌尼克斯",
+          "url": "https://www.toutiao.com/trending/7647376205277184019/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "2526 赛季 NBA 总决赛 G2 马刺 104-105 尼克斯，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2046412720908637248",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "NBA总决赛马刺vs尼克斯",
+          "url": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
         {
           "title": "21世纪NBA总决赛百大炸裂瞬间",
           "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%99%BE%E5%A4%A7%E7%82%B8%E8%A3%82%E7%9E%AC%E9%97%B4",
@@ -335,6 +599,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 05时41分]"
+        },
+        {
+          "title": "NBA总决赛第2场：尼克斯1分险胜马刺",
+          "url": "https://www.baidu.com/s?wd=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%AC%AC2%E5%9C%BA%EF%BC%9A%E5%B0%BC%E5%85%8B%E6%96%AF1%E5%88%86%E9%99%A9%E8%83%9C%E9%A9%AC%E5%88%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "唐斯半场打爆文班",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E6%96%AF%E5%8D%8A%E5%9C%BA%E6%89%93%E7%88%86%E6%96%87%E7%8F%AD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "NBA",
+          "url": "https://s.weibo.com/weibo?q=NBA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "2526 赛季 NBA 总决赛尼克斯 105:104 马刺，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2046513184329277648",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "NBA总决赛马刺vs尼克斯",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     }
