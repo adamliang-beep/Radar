@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T16:58:50.427777+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-06-10T20:34:29.731600+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 20时34分]"
         },
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -194,7 +194,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -210,6 +210,29 @@
           "time_info": "03时24分"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 20时34分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 20时34分]"
+        },
+        {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
           "url": "https://wallstreetcn.com/articles/3774230",
           "source": "华尔街见闻",
@@ -222,15 +245,28 @@
           "time_info": "[03时24分 ~ 07时24分]"
         },
         {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 20时34分]"
+        },
+        {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 20时34分]"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -245,38 +281,16 @@
           "time_info": "[12时27分 ~ 16时58分]"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
           "ranks": [
-            8
+            27,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 16时58分]"
-        },
-        {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 16时58分]"
-        },
-        {
-          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
-          "url": "https://www.zhihu.com/question/2047951657120396654",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 16时58分]"
+          "time_info": "[16时58分 ~ 20时34分]"
         },
         {
           "title": "据伊朗媒体Fars News：霍尔木兹甘省东部地区传出爆炸声。",
@@ -296,7 +310,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -367,6 +381,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美伊冲突升级：伊朗指控美军袭击储水设施 导致2万居民供水中断",
+          "url": "https://flash.jin10.com/detail/20260610202138982800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "伊朗霍尔木兹甘省部分地区发生爆炸",
           "url": "https://wallstreetcn.com/livenews/3117034",
           "source": "华尔街见闻-快讯",
@@ -387,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "中国代表强调安理会已终止审议伊朗核问题",
+          "url": "https://news.ifeng.com/c/8tq4zGV8tJN",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗官方媒体称，已确认锡里克（SIRIK）地区遭到了导弹袭击。",
@@ -521,6 +557,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：想要安全，就离开我们所在的地区。波斯湾的历史上，关于外来入侵者的悲惨命运，篇章众多。",
           "url": "https://flash.jin10.com/detail/20260610063225617800",
           "source": "金十数据",
@@ -593,7 +640,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -618,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "分析师：特朗普重新挑起打击伊朗可能性的时机“特别” 或是在为后续的数据铺路？",
+          "url": "https://flash.jin10.com/detail/20260610201418665800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗外交部长：我们强大的武装部队绝不会让任何袭击或主权威胁免遭报复（定将对等血战到底）。 尽管美国在战场上屡遭惨败，但它依然愚蠢地选择来测试我们的钢铁意志。 如果你们（美军）想要保全自身性命，就立刻滚出我们的地区！",
@@ -675,6 +733,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美国与其他国家的联合声明中还提及了伊朗在北美的威胁。",
+          "url": "https://flash.jin10.com/detail/20260610200523643800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "伊朗被曝向中东地区美军基地发射至少4枚导弹",
           "url": "https://wallstreetcn.com/livenews/3117185",
           "source": "华尔街见闻-快讯",
@@ -692,7 +761,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -719,6 +788,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "美国与其他国家发表联合声明，谴责伊朗伊斯兰革命卫队在欧洲的致命阴谋及其他恶意行动。",
+          "url": "https://flash.jin10.com/detail/20260610200504730800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "消息称伊朗无人机飞越伊拉克领空，对美目标发动袭击",
           "url": "https://wallstreetcn.com/livenews/3117056",
           "source": "华尔街见闻-快讯",
@@ -728,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "伊朗公布击落美军MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
@@ -780,7 +871,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -802,7 +893,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -818,6 +909,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普警告伊朗将为拖延“付出代价”，以色列或再次发动打击！",
+          "url": "https://flash.jin10.com/detail/20260610200142273800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "特朗普称对伊朗进行打击“非常重要”",
           "url": "https://wallstreetcn.com/livenews/3117049",
           "source": "华尔街见闻-快讯",
@@ -829,15 +931,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "伊朗击落美军“阿帕奇”直升机",
-          "url": "https://www.douyin.com/hot/2529103",
-          "source": "抖音",
+          "title": "俄外交部：俄愿为通过谈判解决伊朗问题提供便利",
+          "url": "https://wallstreetcn.com/livenews/3117470",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "20时34分"
         },
         {
           "title": "据Axios报道，伊朗无人机击中美国直升机，并导致后者坠落。 美方的调查尚未确定该事件是否是（伊朗）故意的。 标普跌幅收窄至不足1.5%，纳指跌超2.5%。",
@@ -857,9 +959,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "美媒：特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://wallstreetcn.com/livenews/3117466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗称对美军第五舰队发动袭击",
@@ -982,8 +1095,19 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "UP主漫谈NBA总决赛经典对决",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%BC%AB%E8%B0%88NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%BB%8F%E5%85%B8%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
         {
           "title": "21世纪NBA100大名场面",
           "url": "https://search.bilibili.com/all?keyword=21%E4%B8%96%E7%BA%AANBA100%E5%A4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
@@ -998,6 +1122,18 @@
           "time_info": "[00时11分 ~ 07时24分]"
         },
         {
+          "title": "NBA总决赛第四场前瞻",
+          "url": "https://www.douyin.com/hot/2529481",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 20时34分]"
+        },
+        {
           "title": "NBA总决赛G3复盘",
           "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
@@ -1008,17 +1144,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 03时24分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "NBA总决赛第四场前瞻",
-          "url": "https://www.douyin.com/hot/2529481",
-          "source": "抖音",
+          "title": "早已提前看穿黄金暴跌剧本，3940目标价格不是梦！如何把握黄金送钱行情？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260610200601935800",
+          "source": "金十数据",
           "ranks": [
-            12
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "20时34分"
         }
       ]
     }
