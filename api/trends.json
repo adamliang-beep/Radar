@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T07:41:16.801198+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-06-13T12:41:29.433834+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -42,6 +42,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
+          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
           "url": "https://flash.jin10.com/detail/20260613024716162800",
           "source": "金十数据",
@@ -53,15 +64,26 @@
           "time_info": "03时16分"
         },
         {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
+          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
+          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
+          "url": "https://flash.jin10.com/detail/20260613121408335800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
@@ -101,6 +123,41 @@
           "time_info": "[05时58分 ~ 07时41分]"
         },
         {
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 12时41分]"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 12时41分]"
+        },
+        {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
           "url": "https://flash.jin10.com/detail/20260613040333383800",
           "source": "金十数据",
@@ -110,6 +167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 12时41分]"
         },
         {
           "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
@@ -234,17 +303,6 @@
           "time_info": "[05时58分 ~ 07时41分]"
         },
         {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
           "title": "美国中央司令部：美国军队持续对伊朗实施严格封锁。自4月13日以来，美国中央司令部已引导139艘服从指令的商业船只改变航线，并使9艘不遵守命令的船只失去航行能力。",
           "url": "https://flash.jin10.com/detail/20260613023056612800",
           "source": "金十数据",
@@ -273,20 +331,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
         {
-          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3119092",
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "12时41分"
         },
         {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
@@ -300,17 +358,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗南部爆炸声因警告性射击",
-          "url": "https://wallstreetcn.com/livenews/3119090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
           "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
           "url": "https://flash.jin10.com/detail/20260613022602060800",
           "source": "金十数据",
@@ -320,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
+          "url": "https://flash.jin10.com/detail/20260613104207547800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "报道称阿联酋同意为伊朗解冻数十亿美元资金",
@@ -355,6 +413,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
           "url": "https://wallstreetcn.com/livenews/3118983",
           "source": "华尔街见闻-快讯",
@@ -375,6 +444,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
+          "url": "https://flash.jin10.com/detail/20260613093322843800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
@@ -432,6 +523,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
           "url": "https://wallstreetcn.com/livenews/3119061",
           "source": "华尔街见闻-快讯",
@@ -485,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "伊朗美国已就协议文本达成一致",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%B0%B1%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
