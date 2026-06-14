@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-14T08:18:34.204911+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-06-14T13:59:50.477023+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 54,
       "titles": [
         {
           "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
           "url": "https://wallstreetcn.com/livenews/3119173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
         },
         {
           "title": "伊朗已故最高领袖哈梅内伊葬礼将于7月举行",
           "url": "https://wallstreetcn.com/livenews/3119172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
         },
         {
           "title": "伊朗官员：如达成谅解 霍尔木兹海峡将恢复通行",
@@ -46,11 +48,97 @@
           "url": "https://news.ifeng.com/c/8tvGP2lQey4",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
+        },
+        {
+          "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
+          "url": "https://wallstreetcn.com/articles/3774594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗民众集会反对达成协议，“改革派等于投降派”",
+          "url": "https://news.ifeng.com/c/8twXXk8mMBz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://wallstreetcn.com/livenews/3119163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://wallstreetcn.com/livenews/3119160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://wallstreetcn.com/livenews/3119155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 13时59分]"
         },
         {
           "title": "伊朗称伊美谅解备忘录不会在明天签署，当前重点是止战，此前巴总理称协议或在 24 小时内敲定，透露哪些信息？",
@@ -60,61 +148,6 @@
             16,
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
-        },
-        {
-          "title": "伊朗多家银行出现技术故障 正开展修复工作",
-          "url": "https://wallstreetcn.com/livenews/3119163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
-        },
-        {
-          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
-          "url": "https://wallstreetcn.com/livenews/3119160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
-        },
-        {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
-        },
-        {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 08时18分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹收服务费完全合理",
-          "url": "https://wallstreetcn.com/livenews/3119155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -163,19 +196,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 06时14分]"
-        },
-        {
-          "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
-          "url": "https://wallstreetcn.com/articles/3774594",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 08时18分]"
         },
         {
           "title": "伊朗媒体总编：伊核协议噩梦在伊朗民众中引发合理担忧",
@@ -325,6 +345,28 @@
           "time_info": "[06时14分 ~ 08时18分]"
         },
         {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "伊朗球员问美国记者安全问题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%97%AE%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗为保障霍尔木兹海峡安全通航所采取的举措，符合维护国家安全与国际社会共同利益的原则。",
           "url": "https://flash.jin10.com/detail/20260613234732044800",
           "source": "金十数据",
@@ -358,6 +400,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3119184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗外交部：未来一两天内暂无出访计划",
           "url": "https://flash.jin10.com/detail/20260613230649930800",
           "source": "金十数据",
@@ -369,6 +422,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "市场消息：以色列安全内阁将于周日召开会议，审议美国与伊朗达成的协议。",
+          "url": "https://flash.jin10.com/detail/20260614122616987800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "据第12频道援引以色列官员：与伊朗达成的任何潜在协议都将危及我们的安全利益和安排。",
           "url": "https://flash.jin10.com/detail/20260614022005527800",
           "source": "金十数据",
@@ -378,6 +442,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
+          "url": "https://wallstreetcn.com/livenews/3119179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "伊朗否认未来几天将访问巴基斯坦或日内瓦",
@@ -468,6 +554,28 @@
           "time_info": "02时17分"
         },
         {
+          "title": "航运数据显示，过去24小时内没有商业船只使用伊朗航道。海事安全担忧持续驱使船只远离霍尔木兹海峡的伊朗一侧。",
+          "url": "https://flash.jin10.com/detail/20260614103927303800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "航运数据显示，船只正在避开霍尔木兹海峡的伊朗水域，改为通过阿曼航道。",
+          "url": "https://flash.jin10.com/detail/20260614103856338800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "美国高级政府官员：该协议要求伊朗将霍尔木兹海峡开放作为基本条件，且有可能在不收取任何费用的情况下开放。",
           "url": "https://flash.jin10.com/detail/20260613224009873800",
           "source": "金十数据",
@@ -490,22 +598,99 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国中央司令部：在伊朗海军封锁行动中，美军已迫使141艘船只改变航线，并使其中9艘瘫痪。另外已允许42艘人道主义援助船只通过。",
+          "url": "https://flash.jin10.com/detail/20260614093654021800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "特朗普称14日签署美伊协议 伊朗否认",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B014%E6%97%A5%E7%AD%BE%E7%BD%B2%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE+%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "录音显示伊朗革命卫队警告船只勿通行霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260614090111766800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 4,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "尼克斯NBA总冠军",
+          "url": "https://www.toutiao.com/trending/7650201780407664703/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "尼克斯夺NBA总冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "纽约尼克斯夺NBA总冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E7%BA%A6%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "53年等待,尼克斯夺NBA总冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355148&amp;topic_name=53%E5%B9%B4%E7%AD%89%E5%BE%85%2C%E5%B0%BC%E5%85%8B%E6%96%AF%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "25-26 赛季 NBA 总决赛 G5 尼克斯 94 比 90 马刺，以总比分 4 比 1 夺得 NBA 总冠军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049285900409091751",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
         {
           "title": "骑士官方：已知晓哈登被捕一事",
           "url": "https://www.toutiao.com/trending/7650915661838303241/",
@@ -513,9 +698,45 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "哈登因非法携带武器被捕",
+          "url": "https://www.douyin.com/hot/2533683",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "尼克斯NBA总冠军",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%96%AFNBA%E6%80%BB%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "哈登被指控非法携带武器被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E7%99%BB%E8%A2%AB%E6%8C%87%E6%8E%A7%E9%9D%9E%E6%B3%95%E6%90%BA%E5%B8%A6%E6%AD%A6%E5%99%A8%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            4,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 13时59分]"
         },
         {
           "title": "哈登",
@@ -531,17 +752,26 @@
           "time_info": "[02时17分 ~ 06时14分]"
         },
         {
-          "title": "哈登被指控非法携带武器被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E7%99%BB%E8%A2%AB%E6%8C%87%E6%8E%A7%E9%9D%9E%E6%B3%95%E6%90%BA%E5%B8%A6%E6%AD%A6%E5%99%A8%E8%A2%AB%E6%8D%95",
+          "title": "53年等待！纽约尼克斯再夺NBA总冠军",
+          "url": "https://sports.ifeng.com/c/8twkDeqNkFT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "邓超带儿子现场看NBA总决赛",
+          "url": "https://www.baidu.com/s?wd=%E9%82%93%E8%B6%85%E5%B8%A6%E5%84%BF%E5%AD%90%E7%8E%B0%E5%9C%BA%E7%9C%8BNBA%E6%80%BB%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
           "ranks": [
-            10,
-            4,
-            16
+            13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 08时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "哈登涉嫌非法携带武器被捕",
@@ -550,9 +780,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "布伦森独扛45分！尼克斯时隔53年再捧NBA总冠军奖杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376678",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "布伦森踩到文班脚 裁判未响哨",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%83%E4%BC%A6%E6%A3%AE%E8%B8%A9%E5%88%B0%E6%96%87%E7%8F%AD%E8%84%9A+%E8%A3%81%E5%88%A4%E6%9C%AA%E5%93%8D%E5%93%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "文班获NBA超级顶薪续约",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E8%8E%B7NBA%E8%B6%85%E7%BA%A7%E9%A1%B6%E8%96%AA%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     }
