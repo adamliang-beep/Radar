@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T16:32:18.540306+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-06-24T19:53:00.691575+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
         {
           "title": "伊朗议长说中东安全由中东国家决定",
           "url": "https://flash.jin10.com/detail/20260624162206329800",
@@ -14,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -50,6 +61,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
+          "url": "https://wallstreetcn.com/livenews/3124023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "特朗普：伊朗已告知美国 未在霍尔木兹海峡收取通行费",
+          "url": "https://flash.jin10.com/detail/20260624194202151800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 19时53分]"
         },
         {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
@@ -85,16 +130,15 @@
           "time_info": "05时05分"
         },
         {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
+          "title": "特朗普：伊朗已告知美国，霍尔木兹海峡没有收费。 将释放部分伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3124020",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            16
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -132,6 +176,17 @@
           "time_info": "[16时31分 ~ 16时32分]"
         },
         {
+          "title": "伊朗总统种树太投入巴总理没拦住",
+          "url": "https://www.toutiao.com/trending/7654472597551205924/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
           "title": "伊朗总统种树太投入 巴总理拦不住",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%8D%E6%A0%91%E5%A4%AA%E6%8A%95%E5%85%A5+%E5%B7%B4%E6%80%BB%E7%90%86%E6%8B%A6%E4%B8%8D%E4%BD%8F",
           "source": "百度热搜",
@@ -152,6 +207,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "美飞行员称伊朗无人机像外星武器",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%83%8F%E5%A4%96%E6%98%9F%E6%AD%A6%E5%99%A8%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
+          "title": "美国财长贝森特：我们将与民主党新路线形成鲜明对比。 结构性通胀一直存在于服务业。 没有理由认为301贸易评估不会成功。 在AI领域，法国远远落后于美国和中国，位列第三。 美元主导地位至关重要。 伊朗方面将以美元开具发票。 委内瑞拉将重回美元体系。 在乌克兰局势结束后，俄罗斯将希望恢复美元体系。 伊朗的资金最初将通过多哈发放。 伊朗的大部分资金将用于购买美国商品。 美国财政部将监督伊朗资金分配。",
+          "url": "https://wallstreetcn.com/livenews/3124017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
@@ -198,6 +275,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "美国总统特朗普：此外，美国并未向伊朗提供任何资金，也未释放他们的资金。",
+          "url": "https://flash.jin10.com/detail/20260624193848853800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
           "url": "https://wallstreetcn.com/livenews/3123592",
           "source": "华尔街见闻-快讯",
@@ -207,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已通知美国，没有在霍尔木兹海峡收取通行费。",
+          "url": "https://flash.jin10.com/detail/20260624193827030800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "伊朗方面说没有安排国际原子能机构核查人员的访问，美国总统特朗普对此回应称：“如果他们说的是真的，我现在就取消所有会面。”",
@@ -297,6 +396,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "伊朗外交部：暂无允许国际原子能机构检查核设施的计划",
+          "url": "https://wallstreetcn.com/livenews/3124001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
           "url": "https://flash.jin10.com/detail/20260624011732048800",
           "source": "金十数据",
@@ -325,7 +435,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -339,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "伊朗央行行长：随着美国豁免措施的实施以及获取境外资产渠道的改善，我将拥有更大的回旋余地来“大幅增加外汇供应”。",
+          "url": "https://flash.jin10.com/detail/20260624191731914800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
@@ -358,7 +479,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -410,7 +531,7 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "迪班萨当选2026NBA选秀状元",
@@ -418,11 +539,23 @@
           "source": "抖音",
           "ranks": [
             15,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 19时53分]"
+        },
+        {
+          "title": "NBA2026选秀大会重要结果汇总",
+          "url": "https://www.douyin.com/hot/2546076",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "2026 年 NBA 选秀大会，迪班萨当选状元，彼得森榜眼，布泽尔探花，如何评价本届选秀大会？",
@@ -468,11 +601,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 19时53分]"
         },
         {
           "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
