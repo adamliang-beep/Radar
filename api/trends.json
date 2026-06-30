@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T19:50:21.712680+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-06-30T22:37:31.959690+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -43,6 +43,17 @@
           "time_info": "[16时35分 ~ 19时50分]"
         },
         {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
           "url": "https://wallstreetcn.com/livenews/3126290",
           "source": "华尔街见闻-快讯",
@@ -72,11 +83,12 @@
           "url": "https://news.ifeng.com/c/8uNZON3SysC",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 22时37分]"
         },
         {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
@@ -108,7 +120,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -163,7 +175,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -185,7 +197,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -229,7 +241,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -245,13 +257,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "伊朗否认近期将与美国举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3126850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "伊朗革命卫队称在西北边境打击一支“敌对”武装小组",
           "url": "https://wallstreetcn.com/livenews/3126732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -289,6 +312,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "伊朗称逾30国官员拟出席已故最高领袖悼念活动",
+          "url": "https://wallstreetcn.com/livenews/3126846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "伊朗队出局是否受到盘外招影响",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%87%BA%E5%B1%80%E6%98%AF%E5%90%A6%E5%8F%97%E5%88%B0%E7%9B%98%E5%A4%96%E6%8B%9B%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -314,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 22时37分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -335,7 +369,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -346,7 +380,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
