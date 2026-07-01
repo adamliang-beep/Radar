@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T06:20:35.867118+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-01T08:17:22.013780+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。 特朗普目前将坚持对伊朗进行外交谈判。 特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3127028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         },
         {
           "title": "伊朗外交部发言人：明天的会议将主要讨论被冻结资金的解冻问题以及黎巴嫩停火问题。<br/>",
@@ -245,7 +256,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
@@ -273,7 +284,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -300,11 +311,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            28
+            28,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 04时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 08时17分]"
         }
       ]
     }
