@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T13:48:26.969231+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-01T18:06:11.075780+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -173,6 +173,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "伊朗高官：伊美在卡塔尔举行间接会谈，聚焦两大问题",
+          "url": "https://flash.jin10.com/detail/20260701172719637800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：如果美国试图剥夺伊朗出售石油的权利，那么“没有人会从石油中受益”。",
           "url": "https://flash.jin10.com/detail/20260701032333102800",
           "source": "金十数据",
@@ -215,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "据路透社：伊朗高级官员表示，（当地时间）周二晚上在多哈开始的与美国的间接谈判仍在继续。与美国的间接谈判集中于释放德黑兰的资金和霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260701172150861800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：必须逐步提升霍尔木兹海峡的繁荣与通行能力。我认为应对美国和以色列实施限制措施，海峡通行量仍需增加。",
@@ -298,6 +320,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
+          "url": "https://www.zhihu.com/question/2053257491765581754",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
