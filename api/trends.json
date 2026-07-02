@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T00:58:31.333827+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-03T02:43:11.145746+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "学者警告：伊朗正将霍尔木兹海峡控制常态化",
+          "url": "https://flash.jin10.com/detail/20260703021810181800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     }
