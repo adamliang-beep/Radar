@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T19:41:24.800111+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-07-02T22:23:34.675706+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -77,6 +77,18 @@
           "time_info": "[05时43分 ~ 07时23分]"
         },
         {
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 22时23分]"
+        },
+        {
           "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
           "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
           "source": "凤凰网",
@@ -97,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 19时41分]"
-        },
-        {
-          "title": "伊朗国家队回国向民众道歉",
-          "url": "https://www.toutiao.com/trending/7657124026443402793/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
@@ -204,7 +205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -386,6 +387,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NBA 哈登 文班",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盘点NBA晃倒名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9NBA%E6%99%83%E5%80%92%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     }
