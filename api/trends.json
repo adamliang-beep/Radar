@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T02:43:11.145746+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-07-03T04:25:45.567551+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
+          "url": "https://flash.jin10.com/detail/20260703040541565800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
         {
           "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
           "url": "https://flash.jin10.com/detail/20260703002320925800",
@@ -25,9 +36,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703031850277800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     }
