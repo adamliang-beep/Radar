@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T06:13:01.208388+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-07-04T08:14:34.255613+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 08时14分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 04时21分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 08时14分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -52,6 +64,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
           "url": "https://flash.jin10.com/detail/20260703235528345800",
           "source": "金十数据",
@@ -63,16 +86,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
+          "title": "伊朗称将回应违反谅解备忘录的行为",
+          "url": "https://wallstreetcn.com/livenews/3128852",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            25
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 06时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -99,6 +121,17 @@
           "time_info": "[00时42分 ~ 02时20分]"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 08时14分]"
+        },
+        {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
           "url": "https://wallstreetcn.com/livenews/3128785",
           "source": "华尔街见闻-快讯",
@@ -109,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 02时20分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时13分]"
         },
         {
           "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
