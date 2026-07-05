@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T01:22:40.740482+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T03:38:02.067871+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
-          "url": "https://flash.jin10.com/detail/20260706005622516800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时38分]"
         },
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -35,6 +24,17 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时38分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
+          "url": "https://flash.jin10.com/detail/20260706005622516800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,6 +52,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 03时38分]"
+        },
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 03时38分]"
+        },
+        {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
           "url": "https://flash.jin10.com/detail/20260706001649875800",
           "source": "金十数据",
@@ -63,15 +85,26 @@
           "time_info": "01时22分"
         },
         {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://wallstreetcn.com/livenews/3129009",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
+          "url": "https://flash.jin10.com/detail/20260706023539814800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "03时38分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌对势力已经明白，要想达成黎巴嫩以及整个中东区域的和平稳定，伊朗的参与是不可或缺的。",
+          "url": "https://flash.jin10.com/detail/20260706023506164800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，伊朗就不会获得核武器。",
@@ -83,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://flash.jin10.com/detail/20260706013917109800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         }
       ]
     }
