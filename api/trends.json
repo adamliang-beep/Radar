@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T05:43:53.862879+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-07-07T07:16:24.396038+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时16分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：袭击伊朗、杀害伊朗人民的责任人，尤其是针对伊斯兰革命最高领袖的人，终将被追究责任。",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 07时16分]"
         },
         {
           "title": "伊朗最高领袖发布任免令",
