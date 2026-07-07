@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T16:32:19.005145+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-07T20:05:16.877958+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -49,9 +49,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 20时05分]"
         },
         {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 07时16分]"
-        },
-        {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "伊朗最高领袖发布任免令",
@@ -146,8 +146,19 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "NBA夏季联赛灰熊不敌爵士",
+          "url": "https://www.douyin.com/hot/2561836",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时04分 ~ 20时05分]"
+        },
         {
           "title": "美媒晒哈登吐槽",
           "url": "https://www.toutiao.com/trending/7659596953675825195/",
