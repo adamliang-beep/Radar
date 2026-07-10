@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T06:39:16.413213+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-07-10T08:13:49.958200+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -29,6 +29,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 04时53分]"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时13分]"
+        },
+        {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时13分]"
         },
         {
           "title": "以色列防长Katz：如果威胁再次出现，以色列将准备恢复袭击伊朗。",
@@ -64,39 +88,27 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3131587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
           "title": "周五亚太盘初，WTI原油期货低开0.4%，报71.81美元/桶，投资者权衡伊朗风险。",
           "url": "https://wallstreetcn.com/livenews/3131566",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗发射巡航导弹袭击美国舰艇",
-          "url": "https://www.toutiao.com/trending/7659924718308327474/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时39分]"
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 08时13分]"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
@@ -163,7 +175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -179,13 +191,24 @@
           "time_info": "02时55分"
         },
         {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，以色列向美国提供新情报，称伊朗或在考虑刺杀特朗普的新计划。",
           "url": "https://flash.jin10.com/detail/20260710053537851800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -240,7 +263,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -254,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "海湾合作委员会：伊朗对霍尔木兹海峡航运的攻击威胁全球能源和贸易安全。",
@@ -273,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -287,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260710072325360800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "伊朗遭袭系误报，实为防空系统启动",
@@ -320,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算",
+          "url": "https://flash.jin10.com/detail/20260710070756335800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "伊朗在霍尔木兹海峡周边的区域并没有报告爆炸问题。（伊朗媒体IRNA）",
