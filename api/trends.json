@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T11:31:55.125040+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-07-11T14:23:01.426482+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 66,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -19,6 +19,17 @@
           "time_info": "[01时54分 ~ 07时07分]"
         },
         {
+          "title": "多个弹坑正被修复，美媒称卫星图像显示伊朗或正重建核设施",
+          "url": "https://news.ifeng.com/c/8ufKh63zFFr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时23分]"
+        },
+        {
           "title": "美方要求伊朗周六前承诺停止向霍尔木兹海峡船只开火",
           "url": "https://flash.jin10.com/detail/20260711055328857800",
           "source": "金十数据",
@@ -30,13 +41,24 @@
           "time_info": "07时07分"
         },
         {
+          "title": "据沙特媒体哈达斯：有未证实消息称，在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260711141035412800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "特朗普警告称，若伊朗企图对其实施暗杀，美方导弹将对准伊朗。",
           "url": "https://wallstreetcn.com/livenews/3132296",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -63,15 +85,15 @@
           "time_info": "07时07分"
         },
         {
-          "title": "多个弹坑正被修复，美媒称卫星图像显示伊朗或正重建核设施",
-          "url": "https://news.ifeng.com/c/8ufKh63zFFr",
-          "source": "凤凰网",
+          "title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。",
+          "url": "https://flash.jin10.com/detail/20260711140137269800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "14时23分"
         },
         {
           "title": "巴基斯坦总理：与伊朗总统通话，强调克制、对话与外交维护地区和平。",
@@ -105,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "美官员称伊朗私下就近期袭击商船认错",
-          "url": "https://wallstreetcn.com/livenews/3132292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -215,6 +226,18 @@
           "time_info": "[07时07分 ~ 11时31分]"
         },
         {
+          "title": "美官员称伊朗私下就近期袭击商船认错",
+          "url": "https://wallstreetcn.com/livenews/3132292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时23分]"
+        },
+        {
           "title": "对话伊朗问题专家：伊朗在十字路口，决定未来的已不再是战争",
           "url": "https://m.thepaper.cn/newsDetail_forward_33553349",
           "source": "澎湃新闻",
@@ -286,6 +309,29 @@
           "time_info": "[05时14分 ~ 07时07分]"
         },
         {
+          "title": "美方要求伊朗公开承诺保持霍尔木兹海峡航行通畅",
+          "url": "https://wallstreetcn.com/livenews/3132289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
           "title": "美国发布针对伊朗的新制裁措施",
           "url": "https://wallstreetcn.com/livenews/3132218",
           "source": "华尔街见闻-快讯",
@@ -316,9 +362,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "据半岛电视台：伊朗官员表示，该国研究基础设施在战争中遭受了3亿美元损失。",
+          "url": "https://flash.jin10.com/detail/20260711133101594800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
@@ -338,7 +395,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -363,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "美方要求伊朗公开承诺保持霍尔木兹海峡航行通畅",
-          "url": "https://wallstreetcn.com/livenews/3132289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
@@ -437,9 +483,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "伊朗外长谴责美国财长违反谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3132302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：美国多次违反相关谅解备忘录中的承诺，伊朗的政策仍基于“承诺换承诺”原则，任何来自华盛顿的违约行为都将遭到伊朗的对等回应。",
@@ -451,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/livenews/3132301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "美国财长贝森特：伊朗最高领袖陷入孤立，将继续施压切断伊朗领导层与全球金融体系联系。",
@@ -484,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗称美国违反谅解备忘录后果自负",
+          "url": "https://wallstreetcn.com/livenews/3132300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "CNN：卫星图像显示伊朗或正在重建核设施，疑违反美伊协议",
@@ -635,9 +714,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普再次发出警告：若伊朗企图暗杀我 数千枚导弹将向伊朗发射",
+          "url": "https://flash.jin10.com/detail/20260711112133723800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "分析师：伊朗局势紧张威胁南美农户化肥供应",
@@ -665,8 +755,19 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待文班亚马 5 年 2.52 亿顶薪提前续约马刺，末年拥有球员选项？",
+          "url": "https://www.zhihu.com/question/2059184153275397233",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
         {
           "title": "文班亚马降薪续约",
           "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E9%99%8D%E8%96%AA%E7%BB%AD%E7%BA%A6",
@@ -674,7 +775,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
