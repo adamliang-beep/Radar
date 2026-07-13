@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T12:37:17.297123+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-07-13T16:23:49.561443+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -93,6 +93,41 @@
           "time_info": "[01时10分 ~ 08时04分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 16时23分]"
+        },
+        {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 16时23分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
           "url": "https://wallstreetcn.com/livenews/3132432",
           "source": "华尔街见闻-快讯",
@@ -128,35 +163,13 @@
           "time_info": "08时04分"
         },
         {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
           "title": "伊朗对位于科威特美军设施发动新一轮打击",
           "url": "https://wallstreetcn.com/livenews/3132603",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -170,18 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时37分]"
         },
         {
           "title": "加拿大就伊朗袭击事件表示“与海湾国家站在一起”",
@@ -411,6 +412,18 @@
           "time_info": "[06时58分 ~ 08时04分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 16时23分]"
+        },
+        {
           "title": "美军再次对伊朗实施打击",
           "url": "https://wallstreetcn.com/livenews/3132446",
           "source": "华尔街见闻-快讯",
@@ -458,6 +471,39 @@
           "time_info": "[06时57分 ~ 06时58分]"
         },
         {
+          "title": "伊朗外交部发言人：我们强调，绝不允许霍尔木兹海峡成为威胁伊朗国家安全的地方。与此同时，我们一直本着诚实和负责任的态度，致力于确保该航道的航运安全。",
+          "url": "https://flash.jin10.com/detail/20260713160813965800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "曝特朗普登上伊朗复仇名单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%8D%E4%BB%87%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗外交部发言人：过去四个月里，由于美军的存在，本地区陷入了动荡与不安；我们始终希望本地区国家能从中汲取教训。",
+          "url": "https://flash.jin10.com/detail/20260713160746237800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "英国、法国、德国发表联合声明，谴责伊朗在霍尔木兹袭击船只，呼吁恢复停火和谈判。",
           "url": "https://wallstreetcn.com/livenews/3132461",
           "source": "华尔街见闻-快讯",
@@ -475,7 +521,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -497,9 +543,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "伊朗表示，与调解方继续保持联系。",
+          "url": "https://wallstreetcn.com/livenews/3132710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗外交部发言人：调解方仍在继续努力促成伊朗与美国之间的调解，包括近期的努力。",
+          "url": "https://flash.jin10.com/detail/20260713160549416800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
@@ -511,6 +579,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "伊朗：不会允许海峡成为对伊朗的威胁。",
+          "url": "https://wallstreetcn.com/livenews/3132707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗称不会同意IAEA进入核设施的请求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3132706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "联合国驻黎巴嫩代表与伊朗外长会晤",
@@ -590,6 +680,28 @@
           "time_info": "06时58分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗外交部发言人对美国反伊朗参议员格雷厄姆的死讯发表评论，表示死神是公正的，人们绝不会为格雷厄姆的死感到惊恐或祈祷。",
+          "url": "https://flash.jin10.com/detail/20260713160326947800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗外交部：与美国的谅解备忘录已进入“危机”阶段",
+          "url": "https://wallstreetcn.com/livenews/3132698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗霍尔木兹甘省贾斯克市传出三声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260713051831521800",
           "source": "金十数据",
@@ -601,15 +713,15 @@
           "time_info": "06时58分"
         },
         {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
+          "title": "伊朗解除石油化工产品出口禁令",
+          "url": "https://wallstreetcn.com/livenews/3132695",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "16时23分"
         },
         {
           "title": "据伊朗法尔斯通讯社：今天凌晨00:30（北京时间05:00）左右，伊朗阿巴斯港和锡里克传出超过10次爆炸声。爆炸的确切地点尚不清楚。",
@@ -623,6 +735,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "伊朗称谅解备忘录陷入“危机” 霍尔木兹海峡走美国航线的船只面临风险",
+          "url": "https://wallstreetcn.com/livenews/3132692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
@@ -632,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "伊朗石油部长与俄罗斯能源部长讨论能源贸易问题",
+          "url": "https://wallstreetcn.com/livenews/3132691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗南部再次传出爆炸声。",
@@ -651,7 +785,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -667,13 +801,24 @@
           "time_info": "06时58分"
         },
         {
+          "title": "伊朗外交部发言人：美国一再违反协议。",
+          "url": "https://wallstreetcn.com/livenews/3132687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "伊朗称摧毁位于巴林的美军无人机指挥控制中心",
           "url": "https://wallstreetcn.com/livenews/3132573",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -684,7 +829,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -706,7 +851,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         }
