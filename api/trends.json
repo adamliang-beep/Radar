@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T22:02:49.643214+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-07-15T23:45:14.839883+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 95,
+      "match_count": 101,
       "titles": [
         {
           "title": "以色列总理对伊朗领导人发出警告",
@@ -59,6 +59,22 @@
           "time_info": "[02时11分 ~ 19时42分]"
         },
         {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
           "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
           "source": "凤凰网",
@@ -93,21 +109,6 @@
           "time_info": "[00时23分 ~ 04时20分]"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 22时02分]"
-        },
-        {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
           "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
           "source": "凤凰网",
@@ -140,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时01分]"
+        },
+        {
+          "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
+          "url": "https://news.ifeng.com/c/8umustJIuDD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
         },
         {
           "title": "伊朗民众：最担心的不只是战争，更是持续恶化的经济",
@@ -239,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "伊朗外交部：我们目前专注于捍卫国家。",
+          "url": "https://flash.jin10.com/detail/20260715232826838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美军对伊朗发动新一轮打击",
@@ -385,6 +408,75 @@
           "time_info": "[02时11分 ~ 04时20分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 23时45分]"
+        },
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时45分]"
+        },
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://www.toutiao.com/trending/7662700409185635891/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时45分]"
+        },
+        {
+          "title": "美军宣布对伊朗开始新一波打击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时45分]"
+        },
+        {
+          "title": "上千枚导弹，要飞向伊朗？",
+          "url": "https://news.ifeng.com/c/8umrKcjjbd0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://wallstreetcn.com/articles/3777022",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -416,17 +508,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -561,17 +642,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "特朗普周二就伊朗举行了战情室会议，讨论了扩大对伊朗的打击。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3134050",
           "source": "华尔街见闻-快讯",
@@ -581,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "迈赫尔通讯社：伊朗称美国袭击了霍尔木兹海峡附近的亨加姆岛。",
+          "url": "https://wallstreetcn.com/livenews/3134489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美军确认对伊朗进行了新一轮打击",
@@ -603,17 +684,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        },
-        {
-          "title": "美军称对伊朗进行了90分钟打击",
-          "url": "https://www.toutiao.com/trending/7662700409185635891/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗亨格姆岛遭美方炮弹袭击。",
@@ -814,17 +884,6 @@
           "time_info": "19时42分"
         },
         {
-          "title": "美军宣布对伊朗开始新一波打击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "据伊朗媒体Fars News：伊朗南部胡齐斯坦省阿瓦士传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260715031033960800",
           "source": "金十数据",
@@ -979,6 +1038,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：美国炮弹击中了伊朗亨加姆岛的一处地点。",
+          "url": "https://flash.jin10.com/detail/20260715231214937800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
           "url": "https://wallstreetcn.com/livenews/3133796",
           "source": "华尔街见闻-快讯",
@@ -1098,8 +1168,19 @@
     },
     {
       "keyword_group": "NBA 哈登 文班",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "为什么杨瀚森在 NBA 发展联盟 & 夏季联赛的发挥，反而比在国家队的发挥好？",
+          "url": "https://www.zhihu.com/question/2060355356761350590",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
+        },
         {
           "title": "摩根大通：Circle与Coinbase面临稳定币盈利压力",
           "url": "https://wallstreetcn.com/livenews/3133829",
