@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T14:24:13.765436+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-15T17:18:12.401787+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -20,6 +20,29 @@
           "time_info": "[07时59分 ~ 14时24分]"
         },
         {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 17时18分]"
+        },
+        {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 17时18分]"
+        },
+        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://wallstreetcn.com/articles/3776923",
           "source": "华尔街见闻",
@@ -31,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时11分 ~ 14时24分]"
+          "appearance_count": 12,
+          "time_info": "[02时11分 ~ 17时18分]"
         },
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -67,28 +90,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时24分]"
-        },
-        {
-          "title": "以色列总理对伊朗领导人发出警告",
-          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时24分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -164,7 +165,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -178,6 +179,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 17时18分]"
         },
         {
           "title": "伊朗军方称持续打击地区内美军基地",
@@ -318,7 +332,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -357,18 +371,6 @@
           "time_info": "[02时11分 ~ 04时20分]"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时24分]"
-        },
-        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -400,6 +402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -694,7 +707,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -881,7 +894,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -903,7 +916,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
