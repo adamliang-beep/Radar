@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T18:26:44.065008+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-07-18T19:59:22.688690+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 88,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -44,28 +44,6 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
-          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
-          "url": "https://flash.jin10.com/detail/20260718181052420800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
-          "url": "https://wallstreetcn.com/livenews/3136001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
           "source": "凤凰网",
@@ -99,17 +77,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "据科威特国家通讯社：科威特石油公司（KPC）称，伊朗袭击导致一处石油设施遭到破坏，此次袭击造成人员受伤和重大财产损失。",
-          "url": "https://flash.jin10.com/detail/20260718180425107800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "据伊朗国家电视台：伊朗革命卫队称，两艘油轮在驶经霍尔木兹海峡以南一条布设有水雷的航线后发生爆炸并起火。",
           "url": "https://flash.jin10.com/detail/20260718055951272800",
           "source": "金十数据",
@@ -132,15 +99,15 @@
           "time_info": "14时13分"
         },
         {
-          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
-          "url": "https://wallstreetcn.com/livenews/3135999",
+          "title": "伊拉克石油部长：美国与伊朗局势升级前，伊拉克日均石油出口量为150万桶",
+          "url": "https://wallstreetcn.com/livenews/3136008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "19时59分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
@@ -177,14 +144,14 @@
         },
         {
           "title": "伊朗说以色列是地区战争根源",
-          "url": "https://flash.jin10.com/detail/20260718174648913800",
-          "source": "金十数据",
+          "url": "https://wallstreetcn.com/livenews/3136006",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "19时59分"
         },
         {
           "title": "伊朗称摧毁多架美军战斗机",
@@ -213,6 +180,19 @@
           "time_info": "[11时17分 ~ 16时55分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 19时59分]"
+        },
+        {
           "title": "美国官员：伊朗向沙特美军基地发射导弹",
           "url": "https://flash.jin10.com/detail/20260718110048188800",
           "source": "金十数据",
@@ -223,6 +203,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 14时13分]"
+        },
+        {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://flash.jin10.com/detail/20260718181052420800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
+        },
+        {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3136001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -249,6 +253,18 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "据科威特国家通讯社：科威特石油公司（KPC）称，伊朗袭击导致一处石油设施遭到破坏，此次袭击造成人员受伤和重大财产损失。",
+          "url": "https://flash.jin10.com/detail/20260718180425107800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
+        },
+        {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
           "url": "https://wallstreetcn.com/livenews/3135836",
           "source": "华尔街见闻-快讯",
@@ -261,18 +277,6 @@
           "time_info": "[00时23分 ~ 02时13分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 18时26分]"
-        },
-        {
           "title": "伊朗称击落一架美军MQ-9无人机",
           "url": "https://wallstreetcn.com/livenews/3135928",
           "source": "华尔街见闻-快讯",
@@ -283,6 +287,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 11时17分]"
+        },
+        {
+          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
+          "url": "https://wallstreetcn.com/livenews/3135999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
         },
         {
           "title": "伊朗多地传出爆炸声",
@@ -302,11 +318,36 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时59分]"
+        },
+        {
+          "title": "伊朗说以色列是地区战争根源",
+          "url": "https://flash.jin10.com/detail/20260718174648913800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
+        },
+        {
+          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
+          "url": "https://flash.jin10.com/detail/20260718174502327800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
         },
         {
           "title": "伊朗关联油轮掉头、蛇形机动，美国实施海上封锁",
@@ -367,6 +408,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。",
+          "url": "https://flash.jin10.com/detail/20260718174139867800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时59分]"
         },
         {
           "title": "美军称结束第七晚对伊朗打击行动",
@@ -486,17 +539,6 @@
           "time_info": "11时17分"
         },
         {
-          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
-          "url": "https://flash.jin10.com/detail/20260718174502327800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
           "url": "https://flash.jin10.com/detail/20260718130947273800",
           "source": "金十数据",
@@ -508,6 +550,17 @@
           "time_info": "14时13分"
         },
         {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
           "url": "https://wallstreetcn.com/livenews/3135882",
           "source": "华尔街见闻-快讯",
@@ -517,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。",
-          "url": "https://flash.jin10.com/detail/20260718174139867800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
@@ -591,9 +633,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "据伊朗劳工新闻通讯社（ILNA）：黎巴嫩议会议长表示，当务之急是以色列政权从黎巴嫩领土上完全撤军，并结束占领。",
+          "url": "https://flash.jin10.com/detail/20260718185647615800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
@@ -684,6 +737,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "阿联酋外交部：阿联酋强烈谴责伊朗对巴林、科威特和约旦再次发动的侵略性袭击。",
+          "url": "https://flash.jin10.com/detail/20260718183940867800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "美军袭击伊朗哈尔克岛油轮",
           "url": "https://flash.jin10.com/detail/20260717233357915800",
           "source": "金十数据",
@@ -767,7 +831,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
