@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T03:18:16.001617+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-20T05:03:40.810693+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时03分]"
         },
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时03分]"
         },
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时03分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -50,6 +50,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260720044514567800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗革命卫队发布了显示约旦境内的F-15和F-16机库遭摧毁的画面。据革命卫队公共关系部门称，这些图像显示相关设施遭受了广泛破坏。",
+          "url": "https://flash.jin10.com/detail/20260720043742041800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
+          "url": "https://flash.jin10.com/detail/20260720041116682800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时03分]"
         },
         {
           "title": "据科威特国家通讯社：科威特谴责伊朗针对一处电力及海水淡化设施发动的袭击。伊朗应对针对民用基础设施的袭击承担全部责任。",
@@ -88,17 +132,6 @@
           "time_info": "[01时08分 ~ 03时18分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
-        },
-        {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
@@ -106,8 +139,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时03分]"
         },
         {
           "title": "美国能源部长称对伊朗军事行动将持续进行",
@@ -115,11 +148,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 05时03分]"
         },
         {
           "title": "以军：伊朗向约旦发射导弹或波及以色列",
@@ -146,6 +180,18 @@
           "time_info": "[01时08分 ~ 03时18分]"
         },
         {
+          "title": "据伊朗伊斯兰共和国广播电视台：卫星图像显示，位于卡塔尔乌代德空军基地的美国空军中央后勤零部件仓库遭到摧毁。",
+          "url": "https://flash.jin10.com/detail/20260720012648465800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 05时03分]"
+        },
+        {
           "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
           "url": "https://wallstreetcn.com/livenews/3136303",
           "source": "华尔街见闻-快讯",
@@ -156,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时18分]"
+        },
+        {
+          "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260720011531221800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 05时03分]"
         },
         {
           "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
@@ -206,26 +264,48 @@
           "time_info": "[01时08分 ~ 03时18分]"
         },
         {
-          "title": "据伊朗伊斯兰共和国广播电视台：卫星图像显示，位于卡塔尔乌代德空军基地的美国空军中央后勤零部件仓库遭到摧毁。",
-          "url": "https://flash.jin10.com/detail/20260720012648465800",
+          "title": "据《今日以色列报》援引官员消息称，受地区安全局势紧张影响，以色列总理内塔尼亚胡原定于下周赴美国出席美国参议员格雷厄姆葬礼的行程面临取消风险。以方担忧伊朗可能将打击目标扩大至内塔尼亚胡以外的以色列高级官员，并表示“受到威胁的人数非常多”。",
+          "url": "https://flash.jin10.com/detail/20260720034714973800",
           "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "05时03分"
         },
         {
-          "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260720011531221800",
+          "title": "科威特称伊朗袭击造成关键基础设施受损",
+          "url": "https://flash.jin10.com/detail/20260720033247369800",
           "source": "金十数据",
           "ranks": [
-            15
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国中央司令部：一名驻伊拉克北部的美军军人于7月18日在执行作战任务时死亡。当时，该军人正在对一架被击落的伊朗单向攻击无人机遗留的未爆炸弹进行受控引爆处理。另有一名美军军人在此次事件中受伤。",
+          "url": "https://flash.jin10.com/detail/20260720031309262800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔首相与约旦副首相通话，谴责伊朗袭击约旦。",
+          "url": "https://flash.jin10.com/detail/20260720025356593800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
@@ -234,7 +314,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -256,7 +336,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -267,7 +347,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -281,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "伊拉克总理将于本周末访问伊朗首都德黑兰。（伊拉克国家新闻社）",
+          "url": "https://wallstreetcn.com/livenews/3136317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "以色列国防军：以色列国防军发现，伊朗向毗邻以色列的约旦亚喀巴市（Aqaba）方向发射了导弹。为防止导弹残骸落入以色列境内，以军发射了多枚拦截弹，对导弹残骸进行拦截。目前暂无人员伤亡或财产损失报告。根据既定程序，未启动防空警报。此次事件已结束。",
@@ -307,8 +398,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 05时03分]"
         }
       ]
     }
