@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:42:29.913755+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-07-19T23:05:17.438789+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 115,
+      "match_count": 126,
       "titles": [
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时01分 ~ 17时11分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 23时05分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -46,19 +59,6 @@
           "time_info": "[08时01分 ~ 17时11分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 21时42分]"
-        },
-        {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
           "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
@@ -70,8 +70,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 21时42分]"
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 23时05分]"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 23时05分]"
         },
         {
           "title": "一觉醒来，伊朗让美军付出重大代价",
@@ -96,20 +110,6 @@
           "time_info": "[03时16分 ~ 08时02分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 21时42分]"
-        },
-        {
           "title": "伊朗打击科威特、巴林、约旦的美军目标，发射镜头曝光",
           "url": "https://news.ifeng.com/c/8usGO91QYN0",
           "source": "凤凰网",
@@ -120,6 +120,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时01分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 23时05分]"
+        },
+        {
+          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
+          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 23时05分]"
         },
         {
           "title": "伊朗已停止履行伊美谅解备忘录",
@@ -158,17 +180,6 @@
           "time_info": "[01时06分 ~ 08时02分]"
         },
         {
-          "title": "伊朗让美军付出重大代价",
-          "url": "https://news.ifeng.com/c/8usdq92gz1I",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时42分]"
-        },
-        {
           "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
           "url": "https://www.cls.cn/detail/2430324",
           "source": "财联社热门",
@@ -191,17 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 08时02分]"
-        },
-        {
-          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
-          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时42分]"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -282,6 +282,17 @@
           "time_info": "17时11分"
         },
         {
+          "title": "伊朗阿巴丹附近遭导弹袭击 传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260719222533758800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -335,17 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        },
-        {
-          "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
-          "url": "https://wallstreetcn.com/livenews/3136294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -579,6 +579,18 @@
           "time_info": "[06时03分 ~ 08时02分]"
         },
         {
+          "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
+          "url": "https://wallstreetcn.com/livenews/3136294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 23时05分]"
+        },
+        {
           "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -595,11 +607,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 21时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 23时05分]"
         },
         {
           "title": "据沙特国家电视台：欧盟和海湾国家呼吁伊朗无条件、免费永久开放霍尔木兹海峡。",
@@ -665,6 +678,18 @@
           "time_info": "[08时01分 ~ 11时46分]"
         },
         {
+          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3136292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 23时05分]"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗布什尔省省长穆罕默德·莫扎法里表示，目前既未提出、也未正式下达有关撤离哈尔格岛居民的请求或官方指令。",
           "url": "https://flash.jin10.com/detail/20260719024347577800",
           "source": "金十数据",
@@ -725,6 +750,18 @@
           "time_info": "[03时16分 ~ 05时01分]"
         },
         {
+          "title": "伊朗外长：部分核争端可能“无法解决”",
+          "url": "https://wallstreetcn.com/livenews/3136283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 23时05分]"
+        },
+        {
           "title": "美军对伊朗发动新一轮空袭",
           "url": "https://wallstreetcn.com/livenews/3136128",
           "source": "华尔街见闻-快讯",
@@ -747,6 +784,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 14时39分]"
+        },
+        {
+          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3136280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 23时05分]"
         },
         {
           "title": "美军连续第八晚袭击伊朗",
@@ -782,15 +831,26 @@
           "time_info": "11时46分"
         },
         {
-          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3136292",
+          "title": "美国能源部长称对伊朗军事行动将持续进行",
+          "url": "https://wallstreetcn.com/livenews/3136306",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美国能源部长称对伊朗军事行动将持续进行",
+          "url": "https://flash.jin10.com/detail/20260719221347953800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "据伊通社（IRNA）：根据德黑兰大学地震中心的报告，几分钟前，伊朗胡齐斯坦省的萨兰德市发生了深度12公里的五级地震。",
@@ -802,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "以军：伊朗向约旦发射导弹或波及以色列",
+          "url": "https://wallstreetcn.com/livenews/3136304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗霍尔木兹甘省警告民众避免非必要道路通行",
@@ -848,6 +919,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "伊朗阿巴丹传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3136301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社援引当地官员的话称，美国军方瞄准了靠近（西南部胡齐斯坦省）沙德甘的一个地点。",
           "url": "https://flash.jin10.com/detail/20260719104247055800",
           "source": "金十数据",
@@ -887,7 +969,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -901,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
+          "url": "https://wallstreetcn.com/livenews/3136303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
@@ -936,17 +1029,6 @@
           "time_info": "19时16分"
         },
         {
-          "title": "伊朗外长：部分核争端可能“无法解决”",
-          "url": "https://wallstreetcn.com/livenews/3136283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "据以色列第13频道：美国正准备通过向中东地区派遣约100架加油机，扩大对伊朗的行动范围。以色列国防机构正在为该地区可能出现的重大局势升级做准备。",
           "url": "https://flash.jin10.com/detail/20260719021205798800",
           "source": "金十数据",
@@ -956,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击我们，我们将打击他们的导弹平台。",
+          "url": "https://flash.jin10.com/detail/20260719215911365800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美军称结束第八晚对伊朗打击行动",
@@ -975,9 +1068,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗阿巴丹传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260719215301129800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
@@ -1019,9 +1123,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
+          "url": "https://flash.jin10.com/detail/20260719215247405800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗谴责美国对在建核电站发动“恐怖袭击”",
@@ -1033,17 +1148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
-          "url": "https://wallstreetcn.com/livenews/3136280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "据伊朗国家媒体：伊朗最高领袖关于伊朗烈士送葬仪式的讲话，以及对国家若干重要问题的阐释，将于几分钟后发布。",
@@ -1063,9 +1167,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "据半岛电视台：以色列国防部长表示，如果伊朗攻击我们，我们将予以反击。",
+          "url": "https://flash.jin10.com/detail/20260719214736829800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "伊朗革命卫队海军司令：美国别无选择，只能远离海湾。",
@@ -1096,7 +1211,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1140,9 +1255,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "市场消息：伊朗军方表示，防空部队在南部击落了一架“卢卡斯”型敌方无人机。",
+          "url": "https://flash.jin10.com/detail/20260719214235117800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "据约旦国家电视台：约旦武装部队表示，他们击落了三枚针对该国的伊朗导弹。",
@@ -1151,7 +1277,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1173,7 +1299,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1217,7 +1343,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1239,7 +1365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1294,7 +1420,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1316,7 +1442,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1349,6 +1475,20 @@
           "time_info": "19时16分"
         },
         {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 23时05分]"
+        },
+        {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3136067",
           "source": "华尔街见闻-快讯",
@@ -1361,26 +1501,13 @@
           "time_info": "[01时06分 ~ 08时02分]"
         },
         {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 21时42分]"
-        },
-        {
           "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
           "url": "https://flash.jin10.com/detail/20260719211602664800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
