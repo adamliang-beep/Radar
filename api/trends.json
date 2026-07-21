@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T15:40:02.194116+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-07-21T18:33:02.867536+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 18时33分]"
+        },
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
           "url": "https://news.ifeng.com/c/8uvQaW158Al",
@@ -19,17 +30,6 @@
           "time_info": "[03时01分 ~ 08时05分]"
         },
         {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 15时40分]"
-        },
-        {
           "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
           "url": "https://news.ifeng.com/c/8uwFQqRkygA",
           "source": "凤凰网",
@@ -37,8 +37,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时33分]"
+        },
+        {
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 18时33分]"
         },
         {
           "title": "伊媒：伊朗南部两省传出爆炸声",
@@ -61,6 +74,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 18时33分]"
         },
         {
           "title": "伊朗公布打击多国美军基地战果",
@@ -91,9 +117,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "伊朗官员周二开始在巴基斯坦与调解人会面。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3137525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "“全面战争”！伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8uvsqi231GR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 18时33分]"
         },
         {
           "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
@@ -146,7 +194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -199,19 +247,6 @@
           "time_info": "[03时01分 ~ 04时38分]"
         },
         {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 15时40分]"
-        },
-        {
           "title": "“伊朗安全部门扣留法国2名外交人员”",
           "url": "https://news.ifeng.com/c/8uvMVD6vcSP",
           "source": "凤凰网",
@@ -223,32 +258,9 @@
           "time_info": "[03时01分 ~ 08时05分]"
         },
         {
-          "title": "伊朗海军同时从3个方向猛烈打击美军",
-          "url": "https://www.toutiao.com/trending/7663674772672512009/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 15时40分]"
-        },
-        {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
           "url": "https://www.cls.cn/detail/2431976",
           "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 15时40分]"
-        },
-        {
-          "title": "“全面战争”！伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8uvsqi231GR",
-          "source": "凤凰网",
           "ranks": [
             6
           ],
@@ -381,6 +393,28 @@
           "time_info": "03时01分"
         },
         {
+          "title": "据耶路撒冷邮报：伊朗高级军事顾问雅赫亚·拉希姆·萨法维表示，伊朗官员已与土耳其和阿塞拜疆官员进行会谈，警告他们不要参与对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260721175418043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "伊朗媒体称美海军第五舰队司令部发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3137513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗南部锡里克传出数次爆炸声。",
           "url": "https://flash.jin10.com/detail/20260720235406146800",
           "source": "金十数据",
@@ -409,9 +443,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：科威特北部发生剧烈爆炸。",
+          "url": "https://flash.jin10.com/detail/20260721175157274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "伊朗军方发射多枚导弹，打击科威特境内目标Camp Arifjan（阿里夫坚军营）。（伊朗官方媒体IRIB）",
@@ -423,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗部队在约旦鲁克班地区袭击了一处驻有美军的营地，造成数名美军人员死亡。",
+          "url": "https://flash.jin10.com/detail/20260721175127461800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "险资百亿资金支持A股，伊朗称收到停火提议| Plus日报",
@@ -596,7 +652,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -607,7 +663,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -626,7 +682,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -641,6 +697,17 @@
           "time_info": "[08时05分 ~ 15时40分]"
         },
         {
+          "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
+          "url": "https://flash.jin10.com/detail/20260721180223434800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
@@ -649,8 +716,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 18时33分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
