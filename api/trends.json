@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-23T08:09:25.914048+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-07-23T12:23:05.608130+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 12时23分]"
+        },
         {
           "title": "据伊朗媒体Fars News：当地消息人士称，伊朗袭击了驻扎在约旦东部的美军阵地。",
           "url": "https://flash.jin10.com/detail/20260723034639807800",
@@ -25,9 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "英国外交部说从伊朗暂时撤出工作人员",
+          "url": "https://wallstreetcn.com/livenews/3138600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -55,18 +79,6 @@
           "time_info": "02时15分"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时09分]"
-        },
-        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -78,6 +90,18 @@
           "time_info": "[00时27分 ~ 04时18分]"
         },
         {
+          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2434530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 12时23分]"
+        },
+        {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
           "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
@@ -87,6 +111,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
@@ -128,7 +163,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -238,7 +273,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -276,17 +311,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
-          "url": "https://www.cls.cn/detail/2434530",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
           "title": "伊朗议会议长卡利巴夫：如果我们所在地区无法出售石油，那么任何人都别想出售石油。",
           "url": "https://flash.jin10.com/detail/20260723012721929800",
           "source": "金十数据",
@@ -298,13 +322,24 @@
           "time_info": "02时15分"
         },
         {
+          "title": "美军连续第12晚打击伊朗 持续5个小时",
+          "url": "https://wallstreetcn.com/livenews/3138582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "伊朗革命卫队表示，未经与伊朗协调，任何油轮均不得进出霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260723075121650800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -326,9 +361,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "伊朗消息人士说伊朗已准备好应对美军地面入侵",
+          "url": "https://wallstreetcn.com/livenews/3138579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国战争部长在国会听证会上接受质询期间，竟没有一个问题涉及这场对伊朗战争的人道影响，尽管各方都清楚，这是一场非法发动的战争。",
@@ -351,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国于美东时间晚上10:30完成对伊朗的最新一轮打击。",
+          "url": "https://wallstreetcn.com/livenews/3138572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "伊朗媒体Fars News：布什尔附近传出两声爆炸声。",
@@ -392,7 +449,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -414,7 +471,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -466,7 +523,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -474,11 +531,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 08时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 12时23分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -487,9 +545,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 12时23分]"
+        },
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -509,7 +589,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -531,7 +611,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -553,7 +633,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -575,7 +655,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -644,6 +724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "谷歌上调AI资本开支至2050亿美元，美国科技巨头持续扩大投入",
+          "url": "https://flash.jin10.com/detail/20260723113313668800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
