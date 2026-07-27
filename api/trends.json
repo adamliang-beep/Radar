@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T19:34:57.475193+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-07-27T22:54:51.916386+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -62,6 +62,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 07时05分]"
+        },
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 22时54分]"
         },
         {
           "title": "沙特媒体：伊朗方面称并未退出谈判，愿在日内瓦多地与美国继续谈判",
@@ -132,26 +144,50 @@
           "time_info": "07时05分"
         },
         {
+          "title": "伊朗议会议员哈兹里安：从法律角度来看，阿曼无法在未与伊朗协调的情况下开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260727224406834800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 22时54分]"
+        },
+        {
           "title": "知情人士：美军中东最高指挥官认为空袭伊朗难再见效",
           "url": "https://news.ifeng.com/c/8v6QdWrNJZ0",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
-          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
+          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "22时54分"
         },
         {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
@@ -214,6 +250,20 @@
           "time_info": "[01时11分 ~ 03时23分]"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 22时54分]"
+        },
+        {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
           "url": "https://www.cls.cn/detail/2437013",
           "source": "财联社热门",
@@ -236,36 +286,11 @@
           "time_info": "[01时11分 ~ 07时05分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 19时34分]"
-        },
-        {
           "title": "乌克兰此时打击伊朗商船，图啥？",
           "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 19时34分]"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -385,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "休战两夜重现和平曙光？伊朗高官表态只会对等停火",
@@ -596,6 +632,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "对伊朗停火 美国是不打了还是打不了",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "伊朗暂停对美国报复性行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -605,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "伊朗称不允许由美国决定何时战何时止",
+          "url": "https://wallstreetcn.com/livenews/3140365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
