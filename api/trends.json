@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T15:00:47.286781+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-07-28T17:42:42.758354+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -19,6 +19,18 @@
           "time_info": "[01时04分 ~ 07时13分]"
         },
         {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时42分]"
+        },
+        {
           "title": "事关美国军机部署，伊朗第3次警告保加利亚",
           "url": "https://news.ifeng.com/c/8v6pJifxdFC",
           "source": "凤凰网",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 15时00分]"
         },
         {
           "title": "泽连斯基：与伊朗已处于战争中",
@@ -148,11 +149,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 15时00分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时42分]"
         },
         {
           "title": "泽连斯基：乌克兰与伊朗已处于战争中",
@@ -162,8 +164,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 17时42分]"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 17时42分]"
         },
         {
           "title": "泽连斯基：与伊朗已处于战争中",
@@ -175,17 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "博主：泽连斯基早就对伊朗怀恨在心",
@@ -216,9 +219,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
@@ -260,7 +274,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -274,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "路透社/益普索调查显示，69%的美国人表示美国总统特朗普并未清楚解释美国军方在伊朗的参与目标。",
@@ -293,7 +318,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -329,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
