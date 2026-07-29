@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T03:36:27.250259+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-07-30T05:06:21.097753+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时06分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时06分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -36,11 +36,23 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时06分]"
+        },
+        {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "【美沙空袭伊拉克致4名伊朗革命卫队成员身亡】总台记者当地时间29日获悉，伊朗中央省副省长表示，美国和沙特当天凌晨对伊拉克迪亚拉省发动联合空袭，造成四名伊朗伊斯兰革命卫队成员死亡。（央视）",
@@ -49,20 +61,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        },
-        {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时36分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -72,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时06分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -82,6 +83,17 @@
           "ranks": [
             29,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时06分]"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -99,13 +111,35 @@
           "time_info": "[01时24分 ~ 01时25分]"
         },
         {
+          "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
+          "url": "https://flash.jin10.com/detail/20260730041820706800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "美称伊朗发射导弹袭击驻中东美军",
+          "url": "https://www.douyin.com/hot/2588834",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
           "title": "美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
           "url": "https://flash.jin10.com/detail/20260730030356938800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -121,6 +155,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
+          "url": "https://wallstreetcn.com/livenews/3141883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
           "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
           "url": "https://wallstreetcn.com/livenews/3141781",
           "source": "华尔街见闻-快讯",
@@ -130,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普：轮到我们袭击伊朗了",
+          "url": "https://wallstreetcn.com/livenews/3141873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         }
       ]
     },
