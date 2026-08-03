@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T12:38:17.963084+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-08-03T16:37:45.825680+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -62,9 +62,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 16时37分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -160,6 +160,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 06时03分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 16时37分]"
         },
         {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
@@ -369,26 +381,26 @@
           "time_info": "08时06分"
         },
         {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
           "title": "伊朗袭击乌军基地？实为纽约大火",
           "url": "https://www.toutiao.com/trending/7669212085427339283/",
           "source": "今日头条",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "伊朗称已与阿曼讨论开辟新的霍尔木兹海峡航线",
+          "url": "https://flash.jin10.com/detail/20260803161855937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
@@ -446,6 +458,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗否认与美谈判",
+          "url": "https://www.toutiao.com/trending/7669703499558424083/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "阿拉格齐：伊朗与阿曼谈判接近完成",
           "url": "https://flash.jin10.com/detail/20260803005246093800",
           "source": "金十数据",
@@ -490,6 +513,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗否认与美谈判",
+          "url": "https://wallstreetcn.com/livenews/3143980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "伊朗外交部发言人：所有朋友和邻国应当知道，美国对伊朗基础设施的任何攻击将会影响所有人。",
           "url": "https://flash.jin10.com/detail/20260803004623394800",
           "source": "金十数据",
@@ -523,6 +557,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "欧洲央行称伊朗战争重创欧元区消费，信心下滑拖累经济增长",
+          "url": "https://flash.jin10.com/detail/20260803160753225800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
           "url": "https://wallstreetcn.com/livenews/3143678",
           "source": "华尔街见闻-快讯",
@@ -532,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "伊朗：我们目前没有与美国进行谈判。 正在与阿曼就霍尔木兹海峡通行问题举行谈判。 伊朗与美国之间的问题应在稍后阶段解决。",
+          "url": "https://wallstreetcn.com/livenews/3143976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "伊朗外交部发言人：华盛顿未按期允许霍尔木兹海峡航运恢复，并在期限届满前对我们发动攻击。",
@@ -545,6 +601,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "金十整理：伊朗与阿曼关于霍尔木兹海峡的谈判情况一览",
+          "url": "https://flash.jin10.com/detail/20260803160600377800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "伊朗外交部发言人：我们目前正在与阿曼讨论一条通过霍尔木兹海峡的路线，该路线既不是北向也不是南向。我们关于新航线的理解并不意味着霍尔木兹海峡的开放或关闭。",
           "url": "https://flash.jin10.com/detail/20260803004114541800",
           "source": "金十数据",
@@ -554,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗外交部：近日无接待或派遣代表团的计划",
+          "url": "https://flash.jin10.com/detail/20260803160552599800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
@@ -592,7 +670,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         }
