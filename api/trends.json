@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:49:48.086689+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-08-08T06:47:18.467612+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时47分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时47分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗总统佩泽希齐扬表示：尽管美国和以色列政权通过阴谋以及最近的战争，试图在伊朗与波斯湾沿岸国家之间制造分歧，但我们已经解决了与许多邻国之间的诸多问题。",
@@ -104,11 +104,34 @@
           "source": "今日头条",
           "ranks": [
             20,
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 06时47分]"
+        },
+        {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://flash.jin10.com/detail/20260808033854319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 06时47分]"
+        },
+        {
+          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
+          "url": "https://flash.jin10.com/detail/20260808032301628800",
+          "source": "金十数据",
+          "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时51分]"
+          "time_info": "[04时51分 ~ 06时47分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -136,32 +159,10 @@
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
-          "url": "https://flash.jin10.com/detail/20260808033854319800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
-        },
-        {
-          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
           "url": "https://wallstreetcn.com/livenews/3146901",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
-        },
-        {
-          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
-          "url": "https://flash.jin10.com/detail/20260808032301628800",
-          "source": "金十数据",
-          "ranks": [
             28
           ],
           "is_new": false,
@@ -304,8 +305,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时47分]"
         }
       ]
     }
