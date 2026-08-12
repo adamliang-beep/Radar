@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:55:27.755862+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-08-12T21:28:17.352545+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -151,6 +151,17 @@
           "time_info": "[10时33分 ~ 14时21分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 21时28分]"
+        },
+        {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
           "url": "https://www.cls.cn/detail/2451716",
           "source": "财联社热门",
@@ -161,6 +172,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时33分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 21时28分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -185,17 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时56分]"
-        },
-        {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
         },
         {
           "title": "日本首相高市早苗：伊朗总统佩泽希齐扬介绍了伊朗方面的立场，包括伊朗与阿曼围绕霍尔木兹海峡问题沟通的当前进展及未来前景。关于曼德海峡问题，佩泽希齐扬表示，伊朗正在与沙特保持对话，并努力推动问题解决。",
@@ -319,17 +331,6 @@
           "time_info": "03时40分"
         },
         {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
           "url": "https://flash.jin10.com/detail/20260812030104095800",
           "source": "金十数据",
@@ -363,6 +364,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书：伊朗和巴基斯坦互为彼此的“战略资产”。",
+          "url": "https://flash.jin10.com/detail/20260812205043970800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "特朗普：我不信任伊朗。",
           "url": "https://wallstreetcn.com/livenews/3148320",
           "source": "华尔街见闻-快讯",
@@ -380,7 +392,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -391,7 +403,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
