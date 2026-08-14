@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-14T07:52:53.328098+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-08-14T10:34:16.848706+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时52分]"
-        },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
           "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
@@ -27,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时34分]"
+        },
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时34分]"
         },
         {
           "title": "伊朗将正式加入金砖国家新开发银行",
@@ -59,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -88,6 +89,18 @@
           "time_info": "[06时53分 ~ 07时52分]"
         },
         {
+          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时34分]"
+        },
+        {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
           "url": "https://wallstreetcn.com/livenews/3149255",
           "source": "华尔街见闻-快讯",
@@ -112,6 +125,28 @@
           "time_info": "[04时54分 ~ 05时56分]"
         },
         {
+          "title": "伊朗最高领袖顾问：若条件得不到满足，或升级冲突",
+          "url": "https://news.ifeng.com/c/8vZAGoGTmeG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
           "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
           "url": "https://wallstreetcn.com/livenews/3149312",
           "source": "华尔街见闻-快讯",
@@ -124,13 +159,24 @@
           "time_info": "[04时54分 ~ 05时56分]"
         },
         {
+          "title": "美媒披露特朗普换机疑因受到伊朗肩扛式导弹袭击的威胁，鲁比奥、贝森特留在了「空军一号」上，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2071188820662433064",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
           "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
           "url": "https://flash.jin10.com/detail/20260814073516828800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -174,7 +220,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -196,18 +242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -229,7 +264,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -295,7 +330,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -312,7 +347,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -381,6 +416,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格反弹意味什么",
+          "url": "https://www.toutiao.com/trending/7673529634117389887/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     },
