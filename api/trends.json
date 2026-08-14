@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T16:23:41.777416+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-08-14T18:13:23.561735+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -102,6 +102,17 @@
           "time_info": "[06时53分 ~ 07时52分]"
         },
         {
+          "title": "美防长称可“无限期”对伊朗进行海上封锁",
+          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时13分]"
+        },
+        {
           "title": "伊朗划“红线” 美军组特遣队 海峡博弈再度升级",
           "url": "https://wallstreetcn.com/livenews/3149343",
           "source": "华尔街见闻-快讯",
@@ -124,17 +135,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时52分 ~ 12时56分]"
-        },
-        {
-          "title": "美防长称可“无限期”对伊朗进行海上封锁",
-          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 16时23分]"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
