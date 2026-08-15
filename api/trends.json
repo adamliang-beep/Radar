@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T07:29:37.902916+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-08-15T09:43:26.802778+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "伊朗方面的最新表态传递出哪些信号",
@@ -73,11 +84,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 09时43分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
