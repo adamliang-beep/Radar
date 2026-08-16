@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-16T11:09:05.994194+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-08-16T13:36:05.461820+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://news.ifeng.com/c/8vcIckuO3Db",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时28分 ~ 11时09分]"
+          "appearance_count": 9,
+          "time_info": "[03时28分 ~ 13时36分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -30,6 +31,28 @@
           "time_info": "[03时28分 ~ 11时09分]"
         },
         {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
+          "title": "伊朗防空专家：战争爆发至今，我们从没引进国外的武器或系统",
+          "url": "https://news.ifeng.com/c/8vd8ID5xoBc",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/articles/3779487",
           "source": "华尔街见闻",
@@ -41,17 +64,67 @@
           "time_info": "[03时28分 ~ 03时29分]"
         },
         {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时36分]"
+        },
+        {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
           "url": "https://wallstreetcn.com/livenews/3150003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             16,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时29分 ~ 11时09分]"
+          "appearance_count": 5,
+          "time_info": "[03时29分 ~ 13时36分]"
+        },
+        {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://wallstreetcn.com/livenews/3150030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://flash.jin10.com/detail/20260816123659202800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://wallstreetcn.com/livenews/3149999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时29分 ~ 13时36分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -79,31 +152,6 @@
           "time_info": "[07时28分 ~ 11时09分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 11时09分]"
-        },
-        {
-          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://wallstreetcn.com/livenews/3149999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时29分 ~ 11时09分]"
-        },
-        {
           "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
           "url": "https://flash.jin10.com/detail/20260816024442715800",
           "source": "金十数据",
@@ -114,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 07时28分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
         },
         {
           "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
@@ -138,6 +197,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 09时51分]"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -264,8 +334,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
           "url": "https://wallstreetcn.com/articles/3779490",
@@ -276,6 +357,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 03时29分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://flash.jin10.com/detail/20260816122604848800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -289,11 +381,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 11时09分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时36分]"
         }
       ]
     }
